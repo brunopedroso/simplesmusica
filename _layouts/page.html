@@ -3,13 +3,19 @@ layout: default
 ---
 
 <br/>
-<a href='/index.html'> &lt;&lt; Simples Música</a>
+<a href='{{site.baseurl}}/index.html'> &lt;&lt; Simples Música</a>
 
-<header >
-  <h1>
-    {{ page.title }}
-  </h1>
+<div class="row-fluid">
+  <div class="span8 offset3">
+
+  <header>
+    <h1>
+      {{ page.title }}
+    </h1>
   
-</header>
+  </header>
 
-<section class="entry">{{ content }}</section>
+  <section class="entry">{{ content }}</section>
+
+  </div>
+</div>
