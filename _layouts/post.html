@@ -5,12 +5,20 @@ layout: default
 <br/>
 <a href='/index.html'> &lt;&lt; Simples Música</a>
 
-<header >
-  <h1>
-    {{ page.title }}
-    <span style="font-size:0.4em; color:#ccc">{{ page.date | date: "%d/%m/%Y" }}</span>
-  </h1>
+<div class="row-fluid">
+  <div class="span8 offset3">
   
-</header>
+    <header>
+      <h1>
+        {{ page.title }}
+        <span style="font-size:0.4em; color:#ccc">{{ page.date | date: "%d/%m/%Y" }}</span>
+      </h1>
 
-<section class="entry">{{ content }}</section>
+    </header>
+    
+    <p class="lead" style="color:#aaa">{{ page.description }}</p>
+
+    <section class="entry">{{ content }}</section>
+  
+  </div>
+</div>
