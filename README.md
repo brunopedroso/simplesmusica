@@ -1,1 +1,1 @@
-Um blog que estou publicando  [aqui](simplesmusica.com.br)
+Um blog que estou publicando em simplesmusica.com.br
