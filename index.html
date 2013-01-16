@@ -3,8 +3,8 @@ layout: default
 title: Home
 ---
 
-<div class="hero-unit" style='margin-top:10px'>
-  <h1 style='line-height:0.8em'>
+<div class="hero-unit" style='background:white; border-bottom:1px solid #ddd'>
+  <h1 style='font-size:90px; line-height:0.8em; text-align:right'>
     Simples Música <br/>
     <!--small>um subtítulo aqui</small-->
   </h1>
@@ -15,15 +15,23 @@ title: Home
   {% for post in site.posts limit: 10  %}
 
       <article class="span8">
+        
+        <div class="span3" style="padding:10px">
+          <img src="{{post.img_capa}}" />
+        </div>
+        
+        <div class="span8">
+          
+        	<header>
+        	  <h1>
+        	    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        	    <span style="font-size:0.4em; color:#ccc">{{ post.date | date: "%d/%m/%Y" }}</span>
+        	  </h1>
+        	</header>
 
-      	<header>
-      	  <h1>
-      	    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
-      	    <span style="font-size:0.4em; color:#ccc">{{ post.date | date: "%d/%m/%Y" }}</span>
-      	  </h1>
-      	</header>
-
-      	<section class="entry">{{ post.description }}</section>
+        	<section class="entry">{{ post.description }}</section>
+        	
+        </div>
 
       </article>
 

@@ -19,6 +19,7 @@ layout: default
     <p class="lead" style="color:#aaa">{{ page.description }}</p>
 
     <section class="entry">{{ content }}</section>
-  
+        
   </div>
 </div>
+

@@ -1,13 +1,15 @@
 ---
 layout: post
-title: "Porque você não consegue aprender música?"
-description: "A grande maioria das pessoas adoraria aprender música e poder tocar um instrumento. Quase todas já iniciaram algum processo de aprendizado, mas acabaram desistindo. Porque aprender música parece tão difícil?"
+title: "Qual é a sua dificuldade em aprender música?"
+description: "Muitas pessoas adorariam aprender música e poder tocar um instrumento. Boa parte até já iniciou algum processo de aprendizado, mas acabou desistindo. Porque aprender música parece tão difícil?"
+img_capa: http://farm4.staticflickr.com/3228/3034517059_6b9bd1f87e_z.jpg
+creditos_capa: http://www.flickr.com/photos/guy_on_the_streets/3034517059/
 ---
 
-Todo mundo que eu conheço acaba esbarrando em um dos dois casos abaixo... veja se você se identifica com algum:
+Conheço muita gente que acaba em uma dessas duas situações:
 
-<a href="http://www.flickr.com/photos/guy_on_the_streets/3034517059/" target="_blank">
-  <img src="http://farm4.staticflickr.com/3228/3034517059_6b9bd1f87e_z.jpg" style='float:left; width:320px; margin: 5px 20px 20px -150px' />
+<a href="{{page.creditos_capa}}" target="_blank">
+  <img src="{{page.img_capa}}" style='float:left; width:320px; margin: 5px 20px 20px -150px' />
 </a>
 
 #### 1) Você já tentou aprender um instrumento, mas nunca conseguiu.
@@ -22,41 +24,25 @@ Todo mundo que eu conheço acaba esbarrando em um dos dois casos abaixo... veja 
   
 ***
 
-  Se você se identificou com alguma das duas, saiba que você não é o único! Estou cada vez mais certo de que a quantidade de pessoas bloqueadas em um dos dois estágios é enorme! 
+  E você, se identificou com alguma das duas? Qual?
   
-  Eu mesmo - hoje percebo - perdi uma boa parte do meu tempo em cada um dos dois estágios. Por algum motivo, acho que tive a persistência necessária para ultrapassá-los e hoje acho que consigo ver um pouco mais adiante. Mas tenho a impressão de que não são muitos os que conseguem.
+  Ou você está em um estágio diferente?
+  
+  Porque as pessoas têm tanta dificuldade em superar esses dois estágios? Será que há alguma em comum entre todas elas? Ou será que a música é realmente algo difícil de aprender e pronto?! Eu sinceramente não acredito.
+  
+  Tenho uma série de hipóteses sobre possíveis problemas no método tradicional. E acho que posso ter algo a contribuir. Por isso estou começando esse blog.
+  
+  Você está oficialmente convidado a me acompanha nessa iniciativa!
+  
+  
+***
 
-  Talvez eu esteja errado, mas tenho a forte impressão de que isso não precisava ser assim! As pessoas não deveriam precisar de tanta persistência para vencer esses estágios.
-  
-  **A música é simples**! O que está errado, na verdade, é a forma de ensiná-la!
-  
-  Não quero parecer pretencioso. Reconheço que não sei o quanto sou capaz de fazer a respeito. Mas por concordar fortemente com a visão de que [todo o nosso sistema educacional está errado](http://www.sethgodin.com/sg/docs/stopstealingdreamsscreen.pdf), tenho a impressão de que há tanto a fazer com o ensino musical (que é o mesmo há séééééculos!) que qualquer contribuição que eu possa dar já será alguma coisa!
-  
-  Esse é o intuito desse blog, que se inaugura aqui.
-  
-  Se você quiser me acompanhar nessa tentativa, e correr o risco de (quem sabe?) avançar um pouco nesse processo, assine o blog, por meio do formulário abaixo que eu aviso toda vez que escrever algo.
-  
+  Assine o blog, por meio do formulário abaixo, e seja avisado sobre atualizações nesse blog por email:
+
   [form]
-  
+
   (Ou assine nosso feed!)
-  
-  Se puderem me ajudar, divulgando essa iniciativa, agradeço demais! Quanto mais gente estiver interessada e acompanhando, mais vou me motivar a escrever! ;-)
-  
+
+  **Gostou?** Se puder me ajudar, divulgando essa iniciativa, agradeço demais! Quanto mais gente estiver interessada e acompanhando, mais vou me motivar a escrever! ;-)
+
   [twitter e facebook]
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
