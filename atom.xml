@@ -1,0 +1,31 @@
+---
+layout: nil
+---
+<?xml version="1.0"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ 
+  <title>simplesmusica.com.br</title>
+  <link href="http://simplesmusica.com.br/"/>
+  <link type="application/atom+xml" rel="self" href="http://simplesmusica.com.br/atom.xml"/>
+  <updated>{{ site.time | date_to_xmlschema }}</updated>
+  <id>http://simplesmusica.com.br/</id>
+  <author>
+    <name>Bruno Pedroso</name>
+    <email>brunopedroso+sm@gmail.com</email>
+  </author>
+
+  {% for post in site.posts %}
+  <entry>
+    <id>http://simplesmusica.com.br{{ post.id }}</id>
+    <link type="text/html" rel="alternate" href="http://simplesmusica.com.br{{ post.url }}"/>
+    <title>{{ post.title | xml_escape }}</title>
+    <updated>{{ post.date | date_to_xmlschema }}</updated>
+    <author>
+      <name>Bruno Pedroso</name>
+      <uri>http://simplesmusica.com.br/</uri>
+    </author>
+    <content type="html">{{ post.description | xml_escape }}</content>
+  </entry>
+  {% endfor %}
+ 
+</feed>
