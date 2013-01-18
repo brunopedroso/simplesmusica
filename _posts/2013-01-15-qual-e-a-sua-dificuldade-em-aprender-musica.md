@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Qual é a sua dificuldade em aprender música?"
-description: "Muitas pessoas adorariam aprender música e poder tocar um instrumento. Boa parte até já iniciou algum processo de aprendizado, mas acabou desistindo. Porque aprender música parece tão difícil?"
+description: "Muita gente adoraria aprender música e poder tocar um instrumento. Boa parte até já iniciou algum processo de aprendizado, mas acabou desistindo. Porque aprender música parece tão difícil?"
 img_capa: http://farm4.staticflickr.com/3228/3034517059_6b9bd1f87e_z.jpg
 creditos_capa: http://www.flickr.com/photos/guy_on_the_streets/3034517059/
 ---
@@ -34,8 +34,8 @@ Conheço muita gente que acaba em uma dessas duas situações:
   
   Ou será que a música é realmente algo difícil de aprender e pronto?! Eu sinceramente não acredito.
   
-  Tenho uma série de hipóteses sobre possíveis problemas do método tradicional, e acho que posso ter algo a contribuir. Por isso estou começando a escrever aqui.
+  Tenho uma série de hipóteses sobre possíveis problemas do método tradicional, e acho que posso ter algo a contribuir. 
   
-  Pretendo compartilhar conceitos, interpretações, análises e princípios que me ajudaram a mudar minha relação com a música ao longo de 18 anos. Espero que eles possam ajudar a mudar a sua também!
+  Por isso estou começando a escrever aqui. Pretendo compartilhar conceitos, interpretações, análises e princípios que ajudaram a mudar minha relação com a música ao longo de 18 anos. Espero que eles possam ajudar a mudar a sua também!
   
 
