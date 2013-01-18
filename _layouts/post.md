@@ -20,6 +20,8 @@ layout: default
 
     <section class="entry">{{ content }}</section>
         
+    {% include bottom_post.md %}  
+      
   </div>
 </div>
 

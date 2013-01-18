@@ -38,20 +38,10 @@ title: Home
   {% endfor %}
   
   <aside class="span4" style='padding:12px 5px'>
-    <ul style='list-style-type:none; margin-left:0'>
-      <li><a href="{{ site.baseurl }}/pages/about.html">O que? Quem?</a></li>
-      <li>&nbsp;</li>
-      <li>
-        <input type='text' placeholder='Assine via email' disabled='true' style='width:60%' />
-        <button class="btn btn-success" disabled='true' style='margin-bottom:10px'>Assinar!</button>
-      </li>
-      <li style='font-size:0.9em; color:#999; margin: 0'>
-        <a href="http://feeds.feedburner.com/simplesmusica">
-          <img src="img/feed.png" style="width:16px; margin-left: 5px">
-          ou assine nosso feed
-        </a>
-      </li>
-    </ul>
+    <div style='margin-bottom:20px'>
+      <a href="{{ site.baseurl }}/pages/about.html">O que? Quem?</a>
+    </div>
+    {% include form_assinar.md %}
   </aside>
 
 </div>

@@ -26,48 +26,14 @@ Conheço muita gente que acaba em uma dessas duas situações:
 
 ### E você, se identificou com alguma das duas? 
   
-  Qual delas? Ou você está em um estágio diferente? **Deixe um comentário!**
+  Qual delas? Ou você está em um estágio diferente? 
   
-  Porque as pessoas têm tanta dificuldade em superar esses dois estágios? Será que há alguma em comum entre todas elas? Ou será que a música é realmente algo difícil de aprender e pronto?! Eu sinceramente não acredito.
+  Eu ADORARIA saber! Por favor, **Deixe um comentário!**
   
-  Tenho uma série de hipóteses sobre possíveis problemas do método tradicional, e acho que posso ter algo a contribuir. Por isso estou começando esse blog.
+  Será que há alguma dificuldade em comum? Ou será que a música é realmente algo difícil de aprender e pronto?! Eu sinceramente não acredito.
   
-  Você está oficialmente convidado a me acompanha nessa iniciativa!
+  Tenho uma série de hipóteses sobre possíveis problemas do método tradicional, e acho que posso ter algo a contribuir. Por isso estou começando a escrever aqui.
   
+  Pretendo compartilhar conceitos, interpretações, análises e princípios que me ajudaram a mudar minha relação com a música ao longo de 18 anos. Espero que eles possam ajudar a mudar a sua também!
   
-***
-
-### Gostou?
-
-  Assine o blog, e seja avisado sobre as atualizações:
-
-  <input type='text' placeholder='Assine via email' />
-  <input type='button' class="btn btn-success" value='Assinar!' style="margin:0 0 10px 10px"/>
-
-  (Ou assine nosso feed!)
-
-  Se quiser ajudar, **divulgue esse post**
-
-  [twitter e facebook]
-
-   Agradeço demais! Quanto mais gente estiver interessada e acompanhando, mais vou me motivar a escrever! ;-)
-
-<br/>
-
-***
-
-<div id="disqus_thread"></div>
-<script type="text/javascript">
-   /* * * CONFIGURATION VARIABLES: EDIT BEFORE PASTING INTO YOUR WEBPAGE * * */
-   var disqus_shortname = 'simplesmusica'; // required: replace example with your forum shortname
-
-   /* * * DON'T EDIT BELOW THIS LINE * * */
-   (function() {
-       var dsq = document.createElement('script'); dsq.type = 'text/javascript'; dsq.async = true;
-       dsq.src = 'http://' + disqus_shortname + '.disqus.com/embed.js';
-       (document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(dsq);
-   })();
-</script>
-<noscript>Please enable JavaScript to view the <a href="http://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-<a href="http://disqus.com" class="dsq-brlink">comments powered by <span class="logo-disqus">Disqus</span></a>
 
