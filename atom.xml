@@ -24,7 +24,11 @@ layout: nil
       <name>Bruno Pedroso</name>
       <uri>http://simplesmusica.com.br/</uri>
     </author>
-    <content type="html">{{ post.description | xml_escape }}</content>
+    <content type="html">
+      {{ post.description | xml_escape }}
+      <br/>
+      <a href="http://simplesmusica.com.br{{ post.url }}">Continue lendo &gt;&gt;</a>
+    </content>
   </entry>
   {% endfor %}
  
