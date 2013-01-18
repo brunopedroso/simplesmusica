@@ -24,13 +24,15 @@ Conheço muita gente que acaba em uma dessas duas situações:
   
 ***
 
-### E você, se identificou com alguma das duas? 
+#### Você se identificou com alguma das duas? 
   
   Qual delas? Ou você está em um estágio diferente? 
   
   Eu ADORARIA saber! Por favor, **Deixe um comentário!**
   
-  Será que há alguma dificuldade em comum? Ou será que a música é realmente algo difícil de aprender e pronto?! Eu sinceramente não acredito.
+### Será que há alguma dificuldade em comum? 
+  
+  Ou será que a música é realmente algo difícil de aprender e pronto?! Eu sinceramente não acredito.
   
   Tenho uma série de hipóteses sobre possíveis problemas do método tradicional, e acho que posso ter algo a contribuir. Por isso estou começando a escrever aqui.
   
