@@ -5,7 +5,7 @@
     <input type="email" placeholder='Digite seu email' value="" name="EMAIL" id="mce-EMAIL" style='margin-bottom:0px'>
     <input type="submit" value="Assinar!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">
     <br/>
-    <span style='font-size:0.8em'>
+    <span style='font-size:0.8em; margin-left:3px'>
       <a id='fique_tranquilo' style='cursor:pointer; text-decoration:underline'> fique tranquilo</a>
     </span>
     <script type="text/javascript" charset="utf-8">
@@ -32,8 +32,8 @@
   <br/>
   
   <a href="http://feeds.feedburner.com/simplesmusica">
+    ou assine o feed
     <img src="/img/feed.png" style="width:16px; margin-left: 5px">
-    ou assine nosso feed
   </a>
 </div>
 

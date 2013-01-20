@@ -5,27 +5,15 @@
   Você pode me ajudar, <strong>divulgando esse post</strong> para seus amigos:
 </p><p>
   
-  <div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-action="recommend"></div>
-
-  <br/><br/>
-  
-  <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt">Tweetar</a>
-  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  {% include share.md %}
   
 </p><p>
   Agradeço demais! =)
 </p>
 
 
-<div style="background:#eee; padding:10px 20px; margin:20px 0">
-
-  <h3> Gostou? </h3>
-
-  {% include form_assinar.md %}
-
-  <br/>
+  {% include box_gostou.md %}
   
-</div>
 
 <div id="disqus_thread"></div>
 <script type="text/javascript">
