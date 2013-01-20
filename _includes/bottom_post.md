@@ -1,7 +1,10 @@
 
+<hr/>
+
 <p>
-  Você pode ajudar, <strong>divulgando esse post</strong> para seus amigos:
+  Você pode me ajudar, <strong>divulgando esse post</strong> para seus amigos:
 </p><p>
+  
   <div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-action="recommend"></div>
 
   <br/><br/>
@@ -10,7 +13,7 @@
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
   
 </p><p>
-  Agradeço demais! Quanto mais gente estiver interessada e acompanhando, mais vou me motivar a escrever! ;-)
+  Agradeço demais! =)
 </p>
 
 
