@@ -2,8 +2,8 @@
   Receba atualizações por email: <br/>
   
   <form action="http://Notyet.us2.list-manage.com/subscribe/post?u=1add2b0d2d8fac83d25d4a1fe&amp;id=1df4229c10" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate style="margin:0">
-    <input type="email" placeholder='Digite seu email' value="" name="EMAIL" id="mce-EMAIL" style='margin-bottom:0px'>
-    <input type="submit" value="Assinar!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success">
+    <input type="email" placeholder='Digite seu email' value="" name="EMAIL" id="mce-EMAIL" style='margin:5px 0 0 0; width:150px'>
+    <input type="submit" value="Assinar!" name="subscribe" id="mc-embedded-subscribe" class="btn btn-success" style='margin-top:5px'>
     <br/>
     <span style='font-size:0.8em; margin-left:3px'>
       <a id='fique_tranquilo' style='cursor:pointer; text-decoration:underline'> fique tranquilo</a>
