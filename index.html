@@ -3,9 +3,9 @@ layout: default
 title: Home
 ---
 
-<div class="hero-unit" style='background:white; border-bottom:1px solid #ddd'>
-  <h1 style='font-size:90px; line-height:0.8em; text-align:right'>
-    Simples Música <br/>
+<div class="hero-unit" style='background:white; border-bottom:1px solid #ddd; padding-right:0;margin-right:0;'>
+  <h1 style='font-size:90px; text-align:right; margin-right:0;'>
+    Simples Música
     <!--small>um subtítulo aqui</small-->
   </h1>
 </div>
@@ -23,13 +23,13 @@ title: Home
         <div class="span8">
           
         	<header>
-        	  <h1>
+        	  <h2>
         	    <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         	    <span style="font-size:0.4em; color:#ccc">{{ post.date | date: "%d/%m/%Y" }}</span>
-        	  </h1>
+        	  </h2>
         	</header>
 
-        	<section class="entry">{{ post.description }}</section>
+        	<section class="entry" style="font-size:1.2em; color:#999">{{ post.description }}</section>
         	
         </div>
 

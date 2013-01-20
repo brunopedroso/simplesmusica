@@ -1,3 +1,19 @@
+
+<p>
+  Você pode ajudar, <strong>divulgando esse post</strong> para seus amigos:
+</p><p>
+  <div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-action="recommend"></div>
+
+  <br/><br/>
+  
+  <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt">Tweetar</a>
+  <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
+  
+</p><p>
+  Agradeço demais! Quanto mais gente estiver interessada e acompanhando, mais vou me motivar a escrever! ;-)
+</p>
+
+
 <div style="background:#eee; padding:10px 20px; margin:20px 0">
 
   <h3> Gostou? </h3>
@@ -6,14 +22,6 @@
 
   <br/>
   
-  <p>
-    Você também pode ajudar, <strong>divulgando esse post</strong> para seus amigos:
-  </p><p>
-    [twitter e facebook]
-  </p><p>
-    Agradeço demais! Quanto mais gente estiver interessada e acompanhando, mais vou me motivar a escrever! ;-)
-  </p>
-
 </div>
 
 <div id="disqus_thread"></div>
