@@ -15,4 +15,6 @@ Ele começa como um blog. Não sei ao certo o que poderá ser no futuro.
 
 Minha "formação musical" é bem pouco tradicional, eu diria.
 
-Comecei a aprender música em 1995. Já fiz aulas de violão popular e clássico. Depois resolvi tocar choro. Já comecei a tocar flauta e mais recentemente comecei a tocar sanfona. Quase larguei a faculdade de computação pra entrar na de música. Meu projeto de graduação em computação foi sobre música. Cantei em coral por alguns anos. Fundei uma roda de samba semanal que durou anos, e onde aprendi muito!
+Comecei a aprender música em 1995. Fiz aulas de violão popular e clássico. Depois resolvi tocar chorinho. Comecei a aprender flauta há uns anos atrás e mais recentemente comecei a tocar sanfona. Quase larguei a faculdade de computação pra entrar na de música. Meu projeto de graduação em computação foi sobre música. Cantei em coral durante uns 4 anos e toquei em uma roda de samba com amigos por 7 ou 8 anos.
+
+<br/>
