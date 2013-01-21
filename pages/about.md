@@ -3,7 +3,7 @@ layout: page
 title: "Sobre o Simples Música"
 ---
 
-<img src="/img/o_bruno.jpg" style="float:left;height:140px;margin:0 20px 10px 0; border: 1px; border-radius:5px"/>
+<img src="/img/bruno.jpg" style="float:left;height:140px;margin:0 20px 10px 0; border: 1px; border-radius:5px"/>
 Meu nome é Bruno Pedroso e a música é parte inseparável de mim desde que me entendo por gente.
 
 Esse site trata-se de um projeto antigo que tenho de estudar, pesquisar, praticar, discutir, comparilhar, aprender e talvez ensinar um pouco do que sei sobre música.
