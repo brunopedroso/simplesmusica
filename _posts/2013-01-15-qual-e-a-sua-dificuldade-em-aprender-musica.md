@@ -18,7 +18,7 @@ Conheço muita gente que acaba em uma dessas duas situações:
 
 #### 2) Você já toca um instrumento, mas não entende o que está tocando.
 
-  Você toca algumas coisas, sabe ler a partitura ou as cifras minimamente pra decorar e reproduzir igualzinho, mas não tem a menor idéia do que está tocando. Não entende a relação entre as notas e os acordes. Até consegue tirar algumas músicas de ouvido, mas apenas imitando os sons das gravações. Sem compreender a estrutura, não consegue criar uma interpretação própria, ou improvisar.
+  Você toca algumas coisas, sabe ler a partitura ou as cifras minimamente pra decorar e reproduzir igualzinho, mas não tem a menor idéia do que está tocando. Não entende a relação entre as notas e os acordes. Até consegue tirar algumas músicas de ouvido, mas apenas imitando os sons das gravações. Sem compreender a estrutura, não consegue criar uma interpretação própria nem improvisar.
   
   Você já tentou estudar um pouco de teoria, mas sente que os livros simplesmente não respondem as suas perguntas. Eles descrevem um monte de nomes, símbolos, e regras sem utilidade e sem conexão com a prática.
   
