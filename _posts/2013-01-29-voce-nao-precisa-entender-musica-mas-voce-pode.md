@@ -19,23 +19,25 @@ Eu também concordo! Mas me incomoda um certo conformismo que parece estar impl�
 
 Nada contra aqueles que querem apenas curtir. Mas, se esse não é o seu caso, não se deixe levar pela premissa de que a música é difícil e complicada. Ela não é!
 
-Ressalto isso, pois a mensagem está **implícita**, escondida sob uma outra que nos faz sentir bem... "você não precisa mais fazer força pra entender essas complicações todas..." Olha que coisa boa! =/
+Ressalto isso, pois a mensagem está **implícita**, escondida sob uma outra que nos faz sentir bem... "você não precisa mais sofrer pra entender essas complicações todas..." Olha que coisa boa! =/
 
 Como a gente concorda de cara com o que está em primeiro plano, acaba aceitando sem pensar o que está pressuposto.
 
-Se você ainda não concordou que o filme diz isso nas entrelinhas, basta ver o início da descrição do vídeo, no [vimeo](http://vimeo.com/54763818):
+Veja o início da descrição do vídeo, no [vimeo](http://vimeo.com/54763818):
 
 > *Music is a good thing. But what we did not know until we started with the research for this piece: Music is also a pretty damn complex thing.*
 
 > "A música é uma coisa boa. Mas o que não sabíamos até começarmos a pesquisa para essa peça: Música é também uma coisa complexa pra cacete."
 
-Se você também acha isso, então esse é um ótimo começo pra você: **esqueça isso!** Não é verdade!
+Se é isso que você acha, então esse é um ótimo jeito de começar: **esqueça isso!** Não é verdade!
 
-Qualquer um pode entender muita coisa sobre música! Muito mais do que o necessário para tocar todas as músicas que você gosta, ler, escrever, tirar de ouvido, acompanhar os outros, achar o melhor tom, improvisar, compor, discutir com os outros... tudo! Não tem nada demais!
+Qualquer um pode entender muita coisa sobre música! Muito mais do que o necessário para tocar todas as músicas que você gosta, ler, escrever, tirar de ouvido, harmonizar, acompanhar, improvisar, compor, discutir com os outros... tudo! Não tem nada demais!
 
 O problema ao meu ver - repito - é que a literatura (e a didática) tradicional é péssima. PÉSSIMA! Por vários motivos, é claro. Muitos deles históricos. 
 
-Mas isso pode ser consertado! Me acompanhe que, aos poucos, vou tentar te convencer disso. =)
+Mas isso pode ser consertado! =)
+
+Me acompanhe que, aos poucos, vou tentar te convencer disso.
 
 > [Se muito vale o já feito, mais vale o que será](http://letras.mus.br/milton-nascimento/47439/)
 
