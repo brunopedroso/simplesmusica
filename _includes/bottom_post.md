@@ -2,7 +2,7 @@
 <hr/>
 
 <p>
-  Você pode me ajudar, <strong>divulgando esse post</strong> para seus amigos:
+  Você pode me ajudar, <strong>recomendando esse post</strong> para seus amigos:
 </p><p>
   
   {% include share.md %}

@@ -34,17 +34,21 @@ Mas o **conhecimento intelectual** da música, na minha opinião, **pode ser bas
 
 ### Como a teoria pode te ajudar?
 
-Quando a gente entende a "lógica" do sistema musical, consegue também enxergar onde estão nossas dificuldades e o que (e como) é necessário praticar. Isso torna o processo mais fácil, pois cria propósito para os exercícios e treinos. É muito mais divertido, por exemplo, malhar uma escala quando a gente mesmo chega à conclusão do quanto isso vai ajudar a tocar uma determinada música.
+Quando a gente entende a "lógica" do sistema musical, consegue também enxergar onde estão nossas dificuldades e o que (e como) é necessário praticar. Isso torna o processo mais fácil, pois cria propósito para os exercícios e treinos. É muito mais divertido, por exemplo, malhar uma escala quando a gente mesmo chega à conclusão do quanto (e como) isso vai ajudar a tocar uma determinada música.
 
 Entender também nos ajuda a ouvir melhor, consciente e atento aos aspectos que estamos aprendendo a reconhecer sensorialmente. É como apreciar a obra de um artista logo após ter lido sobre ele e seu estilo. O olhar atento percebe mais facilmente as minúcias. Escutar analisando é um dos melhores exercícios para desenvolver o conhecimento sensorial.
 
-O entendimento teórico também ajuda a quebrar uma barreira psicológica importantíssima, criando o sentimento de que somos capazes; de que o objetivo que buscamos é de fato alcançável! O meio musical (como muitos outros) adora cultivar o sentimento de que se tornar um grande músico é coisa pra poucos, prodígios, superdotados ou super-heróis. Quando a gente compreende a natureza da coisa, percebe que boa parte disso não passa de balela!
+O entendimento teórico também ajuda a quebrar uma barreira psicológica importantíssima, criando o sentimento de que somos capazes; de que o objetivo que buscamos é de fato alcançável! O meio musical (como muitos outros) adora cultivar nas pessoas o sentimento de que se tornar um grande músico é coisa pra poucos, prodígios, superdotados ou super-heróis. Quando a gente compreende a natureza da coisa, percebe que boa parte disso não passa de balela!
 
 ### Como esse blog pode te ajudar?
 
-Levei um bom tempo pesquisando e procurando respostas às minhas dúvidas, até conseguir juntar tudo coerentemente e ver as coisas fazerem algum sentido. E acho que esse é o caminho por que a maioria acaba tendo que percorrer. Mas também acho que não precisa ser assim. Espero poder ajudar.
+Levei um bom tempo pesquisando e procurando respostas para as minhas dúvidas sobre teoria, até conseguir juntar tudo coerentemente, filtrar o que realmente importa e ver as coisas fazerem algum sentido, enfim. 
 
-Também tenho dicas pra dar em relação à prática (motora e sensorial), que me ajudaram muito. Já tive pelo menos 5 ou 6 professores diferentes, com métodos diferentes, e acho que ao longo do tempo acabei desenvolvendo um método de estudo próprio. Vou aproveitar o blog como uma forma de sistematizar essas coisas. Quem sabe isso possa ser útil pra alguém =)
+Acho que esse é o caminho que a maioria acaba tendo que percorrer do zero, toda vez. Mas também acho que não precisa ser assim. Vou tentar destilar os conceitos de uma forma mais coerente do que como eu achei.
+
+Também tenho dicas pra dar em relação à prática (motora e sensorial), que me ajudaram muito. Já tive pelo menos 5 ou 6 professores diferentes, com métodos diferentes, e acho que ao longo do tempo acabei desenvolvendo um método de estudo próprio. Vou aproveitar o blog como uma forma de sistematizar essas dicas. 
+
+Tomara que dê certo. Conto com sua ajuda!
 
 
 
