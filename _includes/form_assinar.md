@@ -14,15 +14,15 @@
         
         $('#link_assinar_email').click(function(e){
           $('#assinar_email').slideDown();
-          _gaq.push(['_trackEvent', 'assinar', 'abrir-assinar', 'email', 1]);
+          _gaq.push(['_trackEvent', 'assinar', 'abrir', 'email', 1]);
         });
         
         $('#link_feed').click(function(e){
-          _gaq.push(['_trackEvent', 'assinar', 'assinar', 'feed', 1]);
+          _gaq.push(['_trackEvent', 'assinar', 'click', 'feed', 1]);
         });
         
         $('#mc-embedded-subscribe').click(function(e){
-          _gaq.push(['_trackEvent', 'assinar', 'submit-assinar', 'email', 1]);
+          _gaq.push(['_trackEvent', 'assinar', 'submit', 'email', 1]);
         });
         
       })
@@ -43,7 +43,7 @@
             
             $('#popup_fique_tranquilo').fadeIn();
             e.stopPropagation();
-            _gaq.push(['_trackEvent', 'assinar', 'assinar', 'fique_tranquilo', 1]);
+            _gaq.push(['_trackEvent', 'assinar', 'click', 'fique_tranquilo', 1]);
           });
           
           $('body').click(function(){
