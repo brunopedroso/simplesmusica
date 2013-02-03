@@ -1,4 +1,4 @@
-<div style='margin: 20px 0'>
+<div style='margin: 20px 0 10px 0'>
   
   <div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-action="recommend"></div>
 
