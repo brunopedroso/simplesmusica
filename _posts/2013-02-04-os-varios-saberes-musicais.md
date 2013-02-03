@@ -14,9 +14,11 @@ Antes de mais nada, é preciso conhecer o seu instrumento e ter a habilidade e c
   <img src="{{page.img_capa}}"  width="50%" frameborder="0" style='float:left; margin:20px 20px 20px -20%' />
 </a>
 
-Mas não basta ser capaz de manipular o instrumento, é preciso "sentir" antecipadamente quais notas devem ser tocadas. É preciso se concentrar na música, reconhecer e interpretar sua estrutura, ainda que inconscientemente. É preciso escutar antes com nosso "ouvido interno" para só então traduzir isso nos movimentos certos e fazer o instrumento soar. Essa intuição, que todos temos em algum grau, é o que chamarei de **"conhecimento sensorial"**.
+Mas não basta ser capaz de manipular o instrumento, é preciso "sentir" antecipadamente quais notas devem ser tocadas. Há que se concentrar na música, reconhecer e interpretar sua estrutura, ainda que inconscientemente. É preciso escutar antes com nosso "ouvido interno" para só então traduzir isso nos movimentos certos e fazer o instrumento soar. Essa intuição, que todos temos em algum grau, é o que chamarei de **"conhecimento sensorial"**.
 
 Por fim, é possível ainda desenvolver uma compreensão analítica e intelectual da estrutura musical, enquadrando a experiência auditiva em um sistema convencionado de nomes, símbolos, e regras. Esse **"conhecimento intelectual"** é o que costumamos chamar de **teoria musical**. 
+
+### Qual deles é o mais importante?
 
 Conseguir traduzir um tipo de conhecimento no outro, relacioná-los e formar uma compreensão integral dos três é o ponto mais alto do desenvolvimento musical. Qualquer um dos três, isoladamente, se torna incompleto e falho. 
 
@@ -28,7 +30,9 @@ O conhecimento intelectual pode ser conseguido mais facilmente, com um pouco de 
 
 [Não é necessário entender a música](/2013/01/29/voce-nao-precisa-entender-musica-mas-voce-pode.html) intelectualmente para gostar dela, nem para tocar, nem pra nada! Muitos gênios da música nunca souberam sequer o nome das notas, e isso não os impediu de se tornarem gênios.
 
-Mas o conhecimento intelectual da música, na minha opinião, pode ser bastante útil. Além de facilitar a comunicação com outros músicos (com quem por ventura estejamos tocando junto, por exemplo), ele nos ajuda a desenvolver as habilidades sensoriais e motoras.
+Mas o **conhecimento intelectual** da música, na minha opinião, **pode ser bastante útil**. Além de facilitar a comunicação com outros músicos (com quem porventura estejamos tocando junto, por exemplo), ele nos ajuda a desenvolver as habilidades sensoriais e motoras.
+
+### Como a teoria pode te ajudar?
 
 Quando a gente entende a "lógica" do sistema musical, consegue também enxergar onde estão nossas dificuldades e o que (e como) é necessário praticar. Isso torna o processo mais fácil, pois cria propósito para os exercícios e treinos. É muito mais divertido, por exemplo, malhar uma escala quando a gente mesmo chega à conclusão do quanto isso vai ajudar a tocar uma determinada música.
 
@@ -36,7 +40,11 @@ Entender também nos ajuda a ouvir melhor, consciente e atento aos aspectos que 
 
 O entendimento teórico também ajuda a quebrar uma barreira psicológica importantíssima, criando o sentimento de que somos capazes; de que o objetivo que buscamos é de fato alcançável! O meio musical (como muitos outros) adora cultivar o sentimento de que se tornar um grande músico é coisa pra poucos, prodígios, superdotados ou super-heróis. Quando a gente compreende a natureza da coisa, percebe que boa parte disso não passa de balela!
 
+### Como esse blog pode te ajudar?
 
+Levei um bom tempo pesquisando e procurando respostas às minhas dúvidas, até conseguir juntar tudo coerentemente e ver as coisas fazerem algum sentido. E acho que esse é o caminho por que a maioria acaba tendo que percorrer. Mas também acho que não precisa ser assim. Espero poder ajudar.
+
+Também tenho dicas pra dar em relação à prática (motora e sensorial), que me ajudaram muito. Já tive pelo menos 5 ou 6 professores diferentes, com métodos diferentes, e acho que ao longo do tempo acabei desenvolvendo um método de estudo próprio. Vou aproveitar o blog como uma forma de sistematizar essas coisas. Quem sabe isso possa ser útil pra alguém =)
 
 
 
