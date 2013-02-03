@@ -1,6 +1,6 @@
 <div>
   
-  <a href="http://feeds.feedburner.com/simplesmusica" style="font-size: 1.3em;">
+  <a href="http://feeds.feedburner.com/simplesmusica" style="font-size: 1.3em;" id="link_feed">
     Assine o feed!
     <img src="/img/feed.png" style="width:16px; margin-left: 5px">
   </a>
@@ -11,11 +11,22 @@
     (Ou <a id="link_assinar_email" style="cursor:pointer">receba atualizações por email</a>)
     <script type="text/javascript" charset="utf-8">
       $(function(){
+        
         $('#link_assinar_email').click(function(e){
           $('#assinar_email').slideDown();
+          _gaq.push(['_trackEvent', 'assinar', 'abrir-assinar', 'email', 1]);
         });
+        
+        $('#link_feed').click(function(e){
+          _gaq.push(['_trackEvent', 'assinar', 'assinar', 'feed', 1]);
+        });
+        
+        $('#mc-embedded-subscribe').click(function(e){
+          _gaq.push(['_trackEvent', 'assinar', 'submit-assinar', 'email', 1]);
+        });
+        
       })
-    </script>    
+    </script>
   </div>
   
   <div id="assinar_email" style="display:none">
@@ -29,12 +40,16 @@
       <script type="text/javascript" charset="utf-8">
         $(function(){
           $('#fique_tranquilo').click(function(e){
+            
             $('#popup_fique_tranquilo').fadeIn();
             e.stopPropagation();
+            _gaq.push(['_trackEvent', 'assinar', 'assinar', 'fique_tranquilo', 1]);
           });
+          
           $('body').click(function(){
             $('#popup_fique_tranquilo').fadeOut();
           });
+          
         })
       </script>
     </form>
