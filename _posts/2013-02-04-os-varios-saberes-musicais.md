@@ -40,15 +40,17 @@ Entender também nos ajuda a ouvir melhor, consciente e atento aos aspectos que 
 
 O entendimento teórico também ajuda a quebrar uma barreira psicológica importantíssima, criando o sentimento de que somos capazes; de que o objetivo que buscamos é de fato alcançável! O meio musical (como muitos outros) adora cultivar nas pessoas o sentimento de que se tornar um grande músico é coisa pra poucos, prodígios, superdotados ou super-heróis. Quando a gente compreende a natureza da coisa, percebe que boa parte disso não passa de balela!
 
-### Como esse blog pode te ajudar?
+### O que vem por aí
 
 Levei um bom tempo pesquisando e procurando respostas para as minhas dúvidas sobre teoria, até conseguir juntar tudo coerentemente, filtrar o que realmente importa e ver as coisas fazerem algum sentido, enfim. 
 
-Acho que esse é o caminho que a maioria acaba tendo que percorrer do zero, toda vez. Mas também acho que não precisa ser assim. Vou tentar destilar os conceitos de uma forma mais coerente do que como eu achei.
+Acho que esse é o caminho que todo mundo acaba tendo que percorrer do zero, toda vez. Mas também acho que não precisa ser assim. 
 
-Também tenho dicas pra dar em relação à prática (motora e sensorial), que me ajudaram muito. Já tive pelo menos 5 ou 6 professores diferentes, com métodos diferentes, e acho que ao longo do tempo acabei desenvolvendo um método de estudo próprio. Vou aproveitar o blog como uma forma de sistematizar essas dicas. 
+Nas próximas semanas, vou tentar destilar alguns conceitos básicos de uma forma mais coerente do que como eu achei.
 
-Tomara que dê certo. Conto com sua ajuda!
+Também tenho dicas pra dar em relação à prática (motora e sensorial), que me ajudaram muito. Já tive pelo menos 5 ou 6 professores diferentes, com métodos diferentes, e acho que ao longo do tempo acabei desenvolvendo um método de estudo próprio.
+
+Acompanhe!
 
 
 
