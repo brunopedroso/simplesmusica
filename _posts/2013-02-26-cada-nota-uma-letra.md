@@ -8,7 +8,7 @@ creditos_capa: ""
 
 Se você não está acostumado com essa notação ainda, eu recomendo. É essa a notação que as famosas 'revistinhas' usam para denotar as cifras. É isso que o pessoal usa pra aprender a tocar Legião Urbana no colégio. É o que vão usar pra te ensinar "Violão Popular", Guitarra, Baixo, Cavaquinho, e por aí vai.
 
-Não vou ainda falar das 'cifras' propriamente ditas, mas das letras que usamos no lugar dos nomes das notas: Dó, Ré, Mi... Para não precisarmos escrever os nomes, com 2 ou 3 letras cada, convencionamos de associar uma única letra a cada uma delas.
+Não vou ainda falar das 'cifras' propriamente ditas, mas das letras que usamos no lugar dos nomes das notas - Dó, Ré, Mi... Para não precisarmos escrever os nomes, com 2 ou 3 letras cada, convencionamos associar uma única letra a cada uma delas.
 
 Sendo 7 os nomes de notas, parece natural que escolhamos 7 letras também, certo?
 
@@ -62,7 +62,7 @@ Mas por que diabos foram começar do **Lá**?!
 
 Não sei ao certo. Por algum motivo alguém convencionou que a nota **Lá** é a nota de referência. 440Hz (Hertz). Quatrocentas e quarenta pulsações por segundo!
 
-Sabe antes da orquestra começar a tocar, que um violinista toca uma nota e os outros instrumentos todos usam ela pra afinar? É um Lá. Sabe aquele ferrinho que o povo usa pra afinar o violão? Você já viu um desses? Um diapasão. Ele vibra em 400Hz. Um Lá. Sempre o Lá.
+Sabe antes da orquestra começar a tocar, que um violinista toca uma nota e os outros instrumentos todos usam ela pra afinar? É um Lá. Sabe aquele ferrinho que o povo usa pra afinar o violão? Você já viu um desses? Um diapasão. Ele vibra em 440Hz. Um Lá. Sempre o Lá.
 
 <img src="http://www.izzomusical.com.br/public/files/produtos/6371/1.jpg" style='width:50%;' />
 
@@ -102,12 +102,3 @@ Aí depois decora o **C**, que é o **Dó**, e pronto. Já dá pra achar todas a
 O **G** é a que vem depois do **Fá**. Então é o **Sol**. O **Si** vem depois do **Lá**, então ele é o **B**. E por aí vai. Começa fazendo a conta, e logo logo, quando você perceber, já decorou. Mole =)
 
 <img src="/img/decorando.png" style="width:60%"/>
-
-
-
-
-
-
-
-
-
