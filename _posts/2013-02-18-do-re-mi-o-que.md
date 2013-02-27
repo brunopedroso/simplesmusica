@@ -26,7 +26,7 @@ Sim! Existe um motivo pra elas terem dois nomes. Mas ignore isso por enquanto. V
 
 Desse modo, as teclas pintadas de verde na figura acima (considerando as brancas e as pretas) são: 
 
-<div style='text-align:center; font-size:1.3em; font-weight:bold; border:1px solid #ccc; background: #eee; padding:10px; margin: 10px 0'> 
+<div class="quadro_cinza"> 
   Dó &nbsp;&nbsp; 
   Dó# &nbsp;&nbsp; 
   Ré &nbsp;&nbsp; 

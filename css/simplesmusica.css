@@ -26,3 +26,22 @@ h3 {
   -moz-border-radius: 5px;
   border-radius: 5px;
 }
+
+.quadro_cinza {
+  text-align:center;
+  font-size:1.3em;
+  font-weight:bold;
+  border:1px solid #ccc;
+  background: #eee;
+  padding:10px;
+  margin: 10px 0;
+}
+
+.quadro_cinza td {
+  padding:10px;
+}
+
+.deslocado {
+  float:left;
+  margin: 5px 20px 20px -20%;
+}
