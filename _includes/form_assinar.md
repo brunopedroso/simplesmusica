@@ -1,14 +1,33 @@
 <div>
   
-  <a href="http://feeds.feedburner.com/simplesmusica" style="font-size: 1.3em;" id="link_feed">
-    Assine o feed!
-    <img src="/img/feed.png" style="width:16px; margin-left: 5px">
-  </a>
-
-  <br/>
+  Acompanhe via:
   
-  <div style='margin-top:10px;font-size:0.9em'>
-    (Ou <a id="link_assinar_email" style="cursor:pointer">receba atualizações por email</a>)
+  <div>
+    <a href="http://feeds.feedburner.com/simplesmusica" style="font-size: 1.1em;" id="link_feed">
+      <img src="/img/feed.png" style="width:16px">
+      feed
+    </a>
+  </div>
+    
+  <div>
+    <a href="http://www.facebook.com/pages/Simples-M%C3%BAsica/552564191431792" style="font-size: 1.1em;" id="link_face">
+      <img src="/img/facebook.png" style="width:16px">
+      facebook
+    </a>
+    
+  </div>
+  
+  <div>
+    <a href="https://twitter.com/_simplesmusica" style="font-size: 1.1em;" id="link_face">
+      <img src="/img/twitter.png" style="width:16px">
+      twitter
+    </a>
+    
+  </div>
+  
+  <div style='font-size:1.1em'>
+    <img src="/img/email.jpg" style="width:16px">
+    <a id="link_assinar_email" style="cursor:pointer">e-mail</a>
     <script type="text/javascript" charset="utf-8">
       $(function(){
         
@@ -28,6 +47,7 @@
       })
     </script>
   </div>
+
   
   <div id="assinar_email" style="display:none">
     <form action="http://Notyet.us2.list-manage.com/subscribe/post?u=1add2b0d2d8fac83d25d4a1fe&amp;id=1df4229c10" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate style="margin:0">
