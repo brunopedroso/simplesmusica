@@ -19,19 +19,6 @@
   {% include box_gostou.md %}
   
   
-<div id="paymeacoffee">
-</div>
-<script>
-  img = document.createElement('img');
-  img.src = 'http://paymeacoffee.herokuapp.com/static/img/bt-menor.png';
-  link = document.createElement('a');
-  link.setAttribute('href', 'http://paymeacoffee.herokuapp.com/pay?url=' + document.location);
-  link.setAttribute('target', 'new');
-  element = document.getElementById('paymeacoffee');
-  link.appendChild(img);
-  element.appendChild(link);
-</script>
-
 
 
 <div id="disqus_thread"></div>
