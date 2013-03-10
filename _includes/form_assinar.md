@@ -10,7 +10,7 @@
   </div>
     
   <div>
-    <a href="http://www.facebook.com/pages/Simples-M%C3%BAsica/552564191431792" style="font-size: 1.1em;" id="link_face">
+    <a href="http://www.facebook.com/simplesmusica" style="font-size: 1.1em;" id="link_face">
       <img src="/img/facebook.png" style="width:16px">
       facebook
     </a>
