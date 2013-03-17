@@ -60,7 +60,7 @@ Eeeeehr... Não =)
 
 Porque nem sempre a música começa no *primeiro grau da escala*.
 
-Toda escala possui uma nota "mais importante" que as outras, que é a nota que dá nome à escala e à tonalidade da música. Por isso chamamos ela de "a tônica".
+Toda escala possui uma nota "mais importante" que as outras, que é a nota que dá nome à escala e à tonalidade da música. Por isso chamamos ela de "tônica".
 
 A tônica da escala que aprendemos na escola (Dó Ré Mi Fá Sol Lá Si Dó) é o Dó!
 
