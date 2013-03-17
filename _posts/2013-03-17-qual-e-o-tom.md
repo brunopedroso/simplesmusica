@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Qual é o tom?"
-description: "O que é a tonalidade de uma música? O que significa dizer que a música está em Dó, ou em Ré? Vamos desmitifcar isso de uma vez por todas?"
+description: "O que é a tonalidade de uma música? O que significa dizer que a música está em Dó, ou em Ré? Vamos desmitificar isso de uma vez por todas?"
 img_capa: '/img/qual-e-o-tom/levemente_desafinado.png'
 creditos_capa: ""
 ---
 
-Quando tocamos uma melodia, usamos as notas de uma escala em uma determinada sequência, em um ritmo específico. Ao ouvirmos essa melodia algumas vezes, começamos a *reconhecer* ela e passamos a *identificar* a música toda vez que ouvimos aquela mesma sequência.
+Quando tocamos uma melodia, usamos as notas de uma escala em uma determinada sequência, em um ritmo específico. Ao ouvirmos essa melodia algumas vezes, começamos a *reconhecer* e passamos a *identificar* a música toda vez que ouvimos aquela mesma sequência.
 
 A primeira vista, podemos imaginar que o que *caracteriza* aquela melodia no fim das contas são as notas exatas que a compõem (e o ritmo). Essa noção está correta... em parte.
 
