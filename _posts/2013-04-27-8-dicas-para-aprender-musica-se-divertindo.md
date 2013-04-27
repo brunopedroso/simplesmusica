@@ -54,7 +54,7 @@ Mas como você pode praticar de um modo divertido? Vou tentar enumerar algumas d
 
 ### 1) Aprenda a tocar músicas que você gosta.
 
-Gosto sabe com é... Cada um tem o seu. =]
+Gosto, sabe com é... Cada um tem o seu. =]
 
 <img src='http://farm9.staticflickr.com/8286/7639092050_283e9274d3_z.jpg' style='width:45%;' class="deslocado"/>
 
