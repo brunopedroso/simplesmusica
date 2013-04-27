@@ -32,7 +32,7 @@ Imagine uma criança vidrada, jogando video game por oito horas seguidas. Ela pr
 
 A educação musical possui tradicionalmente esse estigma de ser difícil e exigir muita persistência e disciplina. Me vem à cabeça a imagem da mulher do século XIX, usando espartilho e fazendo aulas de piano à base de palmatória. Dramático hein... =]
 
-Some-se a isso o nosso [sistema educacional pós-industrial](http://www.sethgodin.com/sg/docs/stopstealingdreamsscreen.pdf), onde o aprendizado e prazer são coisas completamente dissociadas, e está feita a merda.
+Some-se a isso o nosso [sistema educacional pós-industrial](http://www.sethgodin.com/sg/docs/stopstealingdreamsscreen.pdf), onde aprendizado e prazer são coisas completamente dissociadas, e está feita a merda.
 
 Quantas pessoas você conhece que adorariam tocar um instrumento mas que simplesmente acreditam que 'não nasceram pra isso'? Que tristeza... =(
 
