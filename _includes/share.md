@@ -1,8 +1,6 @@
-<div style='margin: 20px 0 10px 0'>
+<div style='margin: 20px 0 0 0'>
   
-  <div class="fb-like" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-action="recommend"></div>
-
-  <br/><br/>
+  <div class="fb-like" style="margin-right:30px" data-send="true" data-layout="button_count" data-width="450" data-show-faces="false" data-action="recommend"></div>
 
   <a href="https://twitter.com/share" class="twitter-share-button" data-lang="pt">Tweetar</a>
   <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>

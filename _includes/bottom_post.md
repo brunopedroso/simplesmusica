@@ -1,25 +1,15 @@
 
-<hr/>
-
   {% include box_gostou.md %}
 
-<p>
-  &lt;&lt; Leia mais no <a href='/'> Simples Música </a>
-</p>
-
-<hr/>
-
-<p>
-  Você pode <strong>me ajudar</strong>, recomendando esse post para seus amigos:
-</p><p>
+<div style="background:#f8f8f8; border:1px solid #eee; padding:10px; margin:30px 0 10px 0">
   
-  {% include share.md %}
-  
-</p>
+  <p>
+    <strong>Agradeço muito</strong> se você puder recomendar para seus amigos:
+  </p>
 
-<p>
-  Agradeço demais! =)
-</p>
+    {% include share.md %}
+
+</div>
 
 <br/>
 
