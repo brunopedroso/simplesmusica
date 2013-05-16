@@ -1,24 +1,27 @@
 
 <hr/>
 
-<p>
-  Leia mais no <a href='/'> Simples Música </a>
-</p>
+  {% include box_gostou.md %}
 
 <p>
-  Você pode me ajudar, <strong>recomendando esse post</strong> para seus amigos:
+  &lt;&lt; Leia mais no <a href='/'> Simples Música </a>
+</p>
+
+<hr/>
+
+<p>
+  Você pode <strong>me ajudar</strong>, recomendando esse post para seus amigos:
 </p><p>
   
   {% include share.md %}
   
-</p><p>
+</p>
+
+<p>
   Agradeço demais! =)
 </p>
 
-
-  {% include box_gostou.md %}
-  
-  
+<br/>
 
 
 <div id="disqus_thread"></div>
