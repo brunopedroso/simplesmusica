@@ -78,7 +78,7 @@ Basta lembrar que a 4a e a 5a são as diferentes. Elas não têm 'duas opções'
 
 Outra 'regrinha' legal de ter na manga é que a soma dos intervalos não é tão lógica quanto parece à primeira vista (a menos que você entenda de programação de computadores, como eu).
 
-Se somarmos um intervalo de segunda com um de terça, qual é o resultado?... Não, não é uma quinta... é uma quarata!
+Se somarmos um intervalo de segunda com um de terça, qual é o resultado?... Não, não é uma quinta... é uma quarta!
 
 Esquisito né? =)
 
