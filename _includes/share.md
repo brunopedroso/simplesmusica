@@ -45,7 +45,7 @@
 
 <div style='margin: 20px 0 0 0'>
   
-  <a href="https://www.facebook.com/sharer/sharer.php?u=http://simplesmusica.com.br{{ page.url }}" class="facebutton" target="_blank">
+  <a href="https://www.facebook.com/sharer/sharer.php?u=http://simplesmusica.com.br{{ page.url }}" class="facebutton" target="_blank" onclick="_gaq.push(['_trackEvent', 'face', 'share'])">
     <div>
       <span class="faceicon"></span>
       <span class='facebuttontext'> Compartilhar </span>
