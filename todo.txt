@@ -1,3 +1,14 @@
 
 
+- consonancia
+  - colocar os sons
+  - um vídeo com acordes de bossa nova?
+  - links
+  - resumo
+
+- relacionamentos
+  - http://sambasdf.com.br/pagode-uma-breve-introducao/
+
 - qual é o tom apontar pro maior e menor
+
+poole https://github.com/mmcclimon/mr_poole
