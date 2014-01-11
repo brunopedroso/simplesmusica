@@ -1,16 +1,18 @@
 ---
 layout: post
-title: "Consonância"
-description: "o elemento básico da harmonia"
-img_capa: '/img/intervalos/intervalos_angulos.png'
+title: "Consonância - ou como combinar os sons"
+description: "O elemento básico da linguagem harmônica, da combinação dos sons, é o que conhecemos como consonância. Descubra como e porquê as notas combinam ou não umas com as outras."
+img_capa: '/img/consonancia/capa.png'
 creditos_capa: ""
 ---
+
+<img src='/img/consonancia/capa.png' style='width:0'/>
 
 A harmonia é descrita nos livros de música tradicionais como 'a arte de combinar os sons', sobretudo quando tocados simultaneamente (ou 'verticalmente', já que as notas simultâneas, na pauta, são escritas uma em cima da outra).
 
 Pra entender como as notas se combinam umas com as outras, de modo mais geral, primeiro vamos tentar entender como elas se combinam duas a duas. O *quanto* duas notas se combinam é uma "grandeza" conhecida como **consonância**.
 
-Quanto mais *consonantes* são duas notas, mais elas combinam. E a consonância, assim como tudo na música, é relativa. Quero dizer que a relação que o G tem com o C é a mesma que o A tem com o D, e a que o B tem com o E. Esses intervalos são igualmente consonantes, já que todos têm o mesmo "tamanho".
+Quanto mais *consonantes* são duas notas, mais elas combinam. E a consonância, assim como tudo na música, [é relativa](/2013/03/17/qual-e-o-tom.html). Quero dizer que a consonância entre o G e o C é a mesma que entre o A e o D, e entre o B e o E. Esses [intervalos](/2013/05/16/Intervalos.html) são igualmente consonantes, já que todos têm o mesmo "tamanho".
 
 <img src='/img/consonancia/3_quintas.png' style='width:80%; margin:10px 0' class=""/>
 
@@ -18,7 +20,7 @@ Desse modo, vou limitar os exemplos dados aqui a intervalos entre o Dó e outras
 
 ##Combinando Frequências
 
-Então consonância é uma "medida" de quanto duas notas se combinam. Mas o que significa dizer que duas notas "combinam"? Dois sons podem combinar ou descombinar em vários sentidos. No caso específico da harmonia, estamos falando da combinação entre as [frequências](link) das notas.
+Então consonância é uma "medida" de quanto duas notas se combinam. Mas o que significa dizer que duas notas "combinam"? Dois sons podem combinar ou descombinar em vários sentidos. No caso específico da harmonia, estamos falando da combinação entre as [frequências](/2013/03/07/como-nascem-as-escalas.html) das notas.
 
 A frequência diz respeito à velocidade de vibração do som. É uma medida normalmente feita em Hertz - vibrações por segundo.
 
@@ -26,11 +28,11 @@ Uma corda de violão mais esticada vibra mais rápido e portanto soa uma nota ma
 
 <img src='/img/consonancia/frequencias.png' style='margin:10px 0' class=""/>
 
-A consonância entre duas notas significa o quanto as suas frequências 'combinam', numericamente falando. Mas mais importante que entender os números é tentar *perceber* essa relação. Deixe-se tentar expressar essa 'combinação' de modo visual e sonoro.
+A consonância entre duas notas significa o quanto as suas frequências 'combinam', numericamente falando. Mas mais importante que entender os números é tentar *perceber* essa relação. Deixe-se tentar expressar essa 'combinação' de modo visual.
 
 ##Percebendo a Consonância
 
-Dada uma nota, por exemplo um Dó, quais as notas que mais combinam com ela? (Ou a pergunta equivalente: quais os (intervalos)[link] mais consonantes?)
+Dada uma nota, por exemplo um Dó, quais as notas que mais combinam com ela? (Ou a pergunta equivalente: quais os [intervalos](/2013/05/16/Intervalos.html) mais consonantes?)
 
 A nota que mais combina com o Dó é obviamente um outro Dó que vibra exatamente na mesma frequência (imagine dois instrumentos tocando a mesma nota):
 
@@ -38,7 +40,7 @@ A nota que mais combina com o Dó é obviamente um outro Dó que vibra exatament
 
 (nessa figura eu desloquei uma das ondas um pouquinho pra vermos melhor as duas linhas...)
 
-Depois dessa, a nota que mais combina com um Dó é o outro Dó uma **Oitava** acima (ou uma oitava abaixo, dá na mesma!). Essas notas combinam *muito* porque a frequência do Dó mais agudo é exatamente **o dobro** da do Dó mais grave:
+Depois dessa, a nota que mais combina com um Dó é o outro Dó uma **Oitava** acima (ou uma oitava abaixo, dá na mesma!) Essas notas combinam *muito* porque a frequência do Dó mais agudo é exatamente **o dobro** da do Dó mais grave:
 
 <img src='/img/consonancia/intervalo_oitava.png' style='margin:10px 0' class=""/>
 
@@ -114,11 +116,11 @@ A consonância faz parte da base sobre a qual vamos construir a linguagem harmô
 
 Todas essas coisas constituem uma linguagem que é escrita sobre as letras das notas e seus intervalos, com suas diferentes consonâncias.
 
-Ter familiaridade com (intervalos)[link] e suas consonâncias vai ser bem útil quando formos falar de acordes e funções harmônicas. 
+Ter familiaridade com [intervalos](/2013/05/16/Intervalos.html) e suas consonâncias vai ser bem útil quando formos falar de acordes e funções harmônicas. 
 
 ---
 
-Se você quer ficar sabendo quando eu publicar os próximos capítulos, inscreva-se para receber atualizações aí ao lado, ou curta a (página do Face)[link].
+Se você quer ficar sabendo quando eu publicar os próximos capítulos, inscreva-se para receber atualizações aí ao lado, ou curta a [página do Face](http://www.facebook.com/simplesmusica).
 
 
 
