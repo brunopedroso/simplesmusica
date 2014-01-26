@@ -37,14 +37,11 @@ No vídeo abaixo, o Bobby Mc'Ferrin ilustra isso de uma forma muito clara! Usand
 
 Quero escrever mais sobre as relações matemática entre as notas, mas por agora o importante é entender que das 12 notas, nós geralmente escolhemos 7 delas (de cada vez) pra tocar; e que existe um motivo para isso! Em parte matemático, em parte histórico-cultural, mas acima de tudo um motivo ligado à nossa **percepção intuitiva**!
 
-### Próximos capítulos
+### Próximos passos
 
-Com isso, acho que já temos uma base (bem mínima e superficial, admito) para falar sobre tonalidades, acordes, harmonia, e por aí vai. Não acha?
+O conceito de escala possui uma relação muito próxima com o de **tonalidades**. De uma olhada [nesse post](/2013/03/17/qual-e-o-tom.html) para saber mais.
 
-Não?! Então diga aí, o que você está achando? O que você está curioso pra saber? O que é que está te causando uma coceirinha, te deixando encafifado? 
-
-Deixe um comentário aí! =)
-
+Ou talvez você prefira ler um pouco sobre [intervalos](/2013/05/16/Intervalos.html).
 
 
 

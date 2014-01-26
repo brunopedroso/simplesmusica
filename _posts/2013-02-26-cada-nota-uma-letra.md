@@ -102,3 +102,10 @@ Aí depois decora o **C**, que é o **Dó**, e pronto. Já dá pra achar todas a
 O **G** é a que vem depois do **Fá**. Então é o **Sol**. O **Si** vem depois do **Lá**, então ele é o **B**. E por aí vai. Começa fazendo a conta, e logo logo, quando você perceber, já decorou. Mole =)
 
 <img src="/img/decorando.png" style="width:60%"/>
+
+
+### E agora?
+
+Sugiro que você leia um pouco sobre [como nascem as escalas](/2013/03/07/como-nascem-as-escalas.html).
+
+Mas você também pode ler [algumas dicas legais](/2013/04/27/8-dicas-para-aprender-musica-se-divertindo.html) que vão te ajudar a aprender música mais rápido. =)

@@ -18,7 +18,7 @@ Olhando pro teclado de um piano, é fácil identifica-las:
 
 As teclas pintadas de verde formam um conjunto de 12. São 7 brancas e 5 pretas. As brancas são as conhecidas Dó, Ré, Mi, Fá, Sol, Lá e Si. As sete que aprendemos na escola. Depois vem outro Dó, e assim por diante. 
 
-É claro que os instrumentos conseguem produzir muito mais que 12 notas. Na figura acima, temos ainda todas as notas à direita e à esquerda da região verde. Mas elas são 'repetidas'. O significado exato dessa repetição é assunto pra outro post
+É claro que os instrumentos conseguem produzir muito mais que 12 notas. Na figura acima, temos ainda todas as notas à direita e à esquerda da região verde. Mas elas são 'repetidas'. O significado exato dessa repetição é assunto pra [outro post.](/2014/01/11/consonancia-como-combinar-os-sons.html)
 
 As pretas, cada uma delas tem dois nomes. A que fica entre o Dó e o Ré, por exemplo, pode ser chamada de Dó sustenido (Dó#), ou de Ré bemol (Réb).
 
@@ -72,16 +72,19 @@ Porque não há teclas pretas entre o Mi e o Fá, e entre o Si e o Dó?
 
 Porque depois do Si os nomes começam a se repetir? O que é que um Dó tem a ver com o outro pra que eles tenham o mesmo nome?
 
-Sim há respostas (ou conjecturas) pra todos esses porquês. E para muitos outros também! Algumas razões são físicas e matemáticas, outras culturais. Vou falar sobre algumas delas em outros posts. 
+Sim há respostas (ou conjecturas) pra todos esses porquês. E para muitos outros também! Algumas razões são físicas e matemáticas, outras culturais. Todos esses assuntos são (ou serão) abordados [aqui no blog](/). 
 
 Mas saiba que muitos desses porquês são pura convenção. A gente simplesmente usa, igual a todo mundo, e pronto.
 
 Ao longo do caminho, **é preciso ter um pouco de paciência** com essas lacunas. Fique tranquilo, elas serão temporárias. É que não dá pra explicar tudo de uma vez só =)
 
 
-### Alguma dúvida a mais?
+### E agora?
 
-Além dessas curiosidades inevitáveis, se alguma coisa ficar confusa ou mal explicada (seja nesse ou em outros posts), preciso muito que vocês me digam! Por favor, DEIXE UM COMENTÁRIO! 
+Além dessas curiosidades inevitáveis, se alguma coisa ficar confusa ou mal explicada (seja nesse ou em outros posts), basta deixar um comentário que eu respondo.
 
+Você agora pode querer saber mais sobre [como usamos letras pra simbolizar as notas](/2013/02/26/cada-nota-uma-letra.html);
 
+ou pode preferir saber [como nascem as escalas](/2013/03/07/como-nascem-as-escalas.html).
 
+A decisão é sua =)
