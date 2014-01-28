@@ -2,7 +2,7 @@
 layout: post
 title: "Como achar o melhor Tom pra cantar?"
 description: "Pra quem gosta de cantar, ter consciência do tom da música e da extensão da sua voz é importantíssimo. Saber achar uma tonalidade confortável é meio caminho pra cantar bonito. Como achar o melhor tom pra você cantar?"
-img_capa: '/img/o-melhor-tom/melodia_media.png'
+img_capa: '/img/o-melhor-tom/capa.png'
 creditos_capa: ""
 ---
 

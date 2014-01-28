@@ -1,35 +1,22 @@
 ---
 layout: post
-title: "Maior ou Menor? Entenda o centro da escala..."
-description: "Uma vez que escolhemos uma escala com 7 notas, qual delas é a mais importante, ou a tônica? Que diferença isso faz? O que significa uma escala Maior ou Menor?"
-img_capa: '/img/o_centro_da_escala/gato_c.png'
+title: "O que significam os modos Maior e Menor?"
+description: "O que significa dizer que uma escala é Maior ou Menor? Entenda o que são os 7 modos gregos e quem são esses dois mais comuns que usamos."
+img_capa: '/img/o_centro_da_escala/capa.png'
 creditos_capa: ""
 ---
 
-[Como já foi dito aqui](/2013/03/17/qual-e-o-tom.html), toda música pode começar a partir de qualquer nota, contanto que as demais sejam escolhidas corretamente. Dependendo da altura em que se começa a música, dizemos que a música está em uma determinada tonalidade.
+[Como vimos](/2013/03/17/qual-e-o-tom.html), toda escala possui uma nota "mais importante" que as outras, que é a nota que dá nome à escala e à tonalidade da música. É a nota que chamamos de "tônica".
 
-Veja o 'atirei o pau no gato' em C e em D:
+A tônica da escala que aprendemos na escola (Dó Ré Mi Fá Sol Lá Si Dó) é o Dó!
 
-<img src='/img/o_centro_da_escala/gato_c.png' style='width:45%;margin:5px'/>
-<img src='/img/o_centro_da_escala/gato_d.png' style='width:45%;margin:5px;'/>
+Mas porque?
 
-A música tocada na tonalidade de D é toda ela mais aguda do que quando tocada em C. O tom mudou, mas a música é essencialmente *a mesma*! Repare que a 'distância' entre as notas se mantêm a mesma! E que por causa disso, quando a gente toca ela em D, acaba usando o F# e não o F.
+Se temos [7 notas](/2013/03/07/como-nascem-as-escalas.html), não podemos tomar qualquer uma delas como centro? 
 
-O mais estranho, [como notamos no post anterior](/2013/03/17/qual-e-o-tom.html), é que no tom de C a música começa em G! Então porque dizemos que a música está em C?
+Sim.
 
-A verdade é que o lugar onde a música começa - a primeira nota - não tem nada de muito especial mesmo. A nota mais importante sabe qual é? a última. Isso mesmo, a última! O "Atirei o pau no gato" *termina* em C!
-
-<img src='/img/o_centro_da_escala/final_gato.png' style='width:80%;margin:10px 0'/>
-
-E se não estiver satisfeito, saiba que o 'mi-au' que é gritado no final também é um Dó =)
-
-Mais pra frente escrevo mais sobre esse assunto de a última ser a nota mais importante, e não a primeira. Por agora, vamos nos ater ao fato de que há uma nota, detre [as 7 da escala](/2013/03/07/como-nascem-as-escalas.html), à qual atribuímos uma importância maior.
-
-O significado exato dessa 'importância' também vai ficar bem mais fácil de entender depois que discutirmos um pouco sobre *harmonia* e *forma*. A gente chega lá...
-
-Mas antes disso a gente precisa conseguir definir uma delas pra usar como referência, no mínimo pra poder dar o nome à tonalidade. E nada mais racional do que utilizar a mesma referência que todo mundo usa =)
-
-Portanto, considerando que você esteja confortável com o fato de uma das notas ser a mais importante, vamos falar um pouco sobre como escolhemos a tônica, dentre as 7 opções que temos.
+Deixe-me falar um pouco sobre como escolhemos a tônica...
 
 ## Qual das notas deve ser o centro?
 
@@ -39,7 +26,9 @@ Aqui estão as 7 opções de tônica:
 
 <img src='/img/o_centro_da_escala/tonica_todos_graus_de_c.png' style='width:80%;margin:10px 0'/>
 
-Como você pode observar, as notas são exatamente as mesmas, mas a nota mais importante (a tônica) muda. Você pode imaginar que a primeira é Dó, Ré, Mi, Fa, Sol, Lá, Si, Dó; a segunda é Ré, Mi, Fá, Sol, Lá, Si, Dó, Ré; a Terceira Mi, Fá, Sol, Lá, Si, Dó, Ré, Mi; e assim por diante. A única coisa que muda é onde a escala começa (ou melhor... termina!)
+Como você pode observar, as notas são exatamente as mesmas, mas a nota mais importante (a tônica) muda. Na figura, isso está representado com uma linha ligeiramente mais grossa.
+
+Você pode imaginar que a primeira é Dó, Ré, Mi, Fa, Sol, Lá, Si, Dó; a segunda é Ré, Mi, Fá, Sol, Lá, Si, Dó, Ré; a Terceira Mi, Fá, Sol, Lá, Si, Dó, Ré, Mi; e assim por diante. A única coisa que muda é onde a escala começa (ou melhor... termina!)
 
 Essas 7 opções de escalas são o que conhecemos como **modos gregos**, famosos por terem nomes bem esquisitos. Segundo essa nomenclatura, essas seriam respectivamente as escalas de Dó Jônio, Ré Dórico, Mi Frígio, Fá Lídio, Sol Mixolídio, Lá Eólio, e Si Lócrio. (ui)
 
@@ -49,11 +38,11 @@ Pra ficar mais fácil comparar, vou girar todas elas (exceto a primeira) pra dei
 
 <img src='/img/o_centro_da_escala/tonicas_linhadas.png' style='width:80%;margin:10px 0'/>
 
-Veja que, olhando todas elas da mesma perspectiva, dá pra ver que nenhuma delas possui a mesma forma. Cada uma tem um desenho diferente.
+Veja que, olhando todas elas da mesma perspectiva, dá pra ver que nenhuma delas possui a mesma forma. Cada uma tem um desenho diferente. E cada uma possui uma sonoridade diferente também!
 
-Cada desenho representa um 'modo', que pode ser aplicado em qualquer nota. Podemos construir uma escala de Dó Frígio, ou Sol Eólio, ou qualquer outra combinação que quisermos, bastando pra isso escolher o desenho certo e girar ele pra tônica ficar no lugar que a gente escolher...
+Cada uma delas representa um 'modo', que pode ser iniciado em qualquer uma das notas. Podemos construir uma escala de Dó Frígio, ou Sol Eólio, ou qualquer outra combinação que quisermos, bastando pra isso escolher o desenho certo e girar ele pra tônica ficar no lugar que a gente escolher...
 
-Cada desenho desse possui uma sonoridade diferente. Por algum tempo se fez música com todos esses modos (na Grécia antiga). Mas com o tempo, por algum motivo, apenas dois deles sobreviveram na cultura ocidental, e são praticamente os únicos que usamos hoje em dia.
+Por algum tempo se fez música com todos esses modos (na Grécia antiga, dizem). Mas com o tempo, por algum motivo, apenas dois deles sobreviveram na cultura ocidental, e são praticamente os únicos que usamos hoje em dia.
 
 O que não é uma perda tão grande assim, na verdade... 
 

@@ -1,8 +1,8 @@
 ---
 layout: post
 title: "Qual é o tom?"
-description: "O que é a tonalidade de uma música? O que significa dizer que a música está em Dó, ou em Ré? Vamos desmitificar isso de uma vez por todas?"
-img_capa: '/img/qual-e-o-tom/levemente_desafinado.png'
+description: "O que é a tonalidade de uma música? O que significa dizer que a música está em Dó, ou em Ré?"
+img_capa: '/img/qual-e-o-tom/capa.png'
 creditos_capa: ""
 ---
 
@@ -50,52 +50,44 @@ E se "rodarmos" a escala mais um pouquinho, tudo bem também!
 
 Ou seja: se as 7 notas escolhidas estiverem relativamente dispostas da mesma "forma", as características da **escala** se preservam. Então podemos começar a música literalmente de **qualquer nota**, contanto que as outras notas todas sejam tomadas de modo a manter exatamente a mesma "forma".
 
+<br/><br/>
+
+## Tonalidade
+
+Dependendo da altura em que se toca a música, dizemos que ela está em uma determinada tonalidade.
+
+Veja o 'atirei o pau no gato' em C e em D:
+
+<img src='/img/o_centro_da_escala/gato_c.png' style='width:45%;margin:20px 5px 30px 5px'/>
+<img src='/img/o_centro_da_escala/gato_d.png' style='width:45%;margin:20px 5px 30px 5px'/>
+
+<br/>
+
+A música tocada na tonalidade de D é toda ela mais aguda do que quando tocada em C. O tom mudou, mas a música é essencialmente *a mesma*!
+
+Repare que a 'distância' entre as notas se mantêm a mesma! É por isso que quando tocamos em D usamos o F# e não o F.
+
+Ué, a música está na tonalidade C, mas começa com a nota G?!
+
+Sim. A música não precisa *começar* no primeiro grau da escala (no C).
+
+A verdade é que o lugar onde a música começa - a primeira nota - não tem nada de muito especial mesmo. A nota mais importante da escala sabe qual é ...? 
+
+A última! Isso mesmo, a última! O "Atirei o pau no gato" *termina* em C!
+
+<img src='/img/o_centro_da_escala/final_gato.png' style='width:80%;margin:20px 5px 30px 5px'/>
+
+E se não estiver satisfeito, saiba que o 'mi-au' que é gritado no final também é um Dó =)
+
 <br/>
 
 ## O centro da escala
 
-Ah, quer dizer que se eu começar a música com a nota G, então o tom da música é G? 
+E porquê o Dó?!
 
-Eeeeehr... Não =)
+Aí você vai precisar dar uma lida sobre [o que significam os modos Maior e Menor.](/2013/04/01/maior-menor-o-centro-da-escala.html). Vale a pena! =)
 
-Porque nem sempre a música começa no *primeiro grau da escala*.
 
-Toda escala possui uma nota "mais importante" que as outras, que é a nota que dá nome à escala e à tonalidade da música. Por isso chamamos ela de "tônica".
-
-A tônica da escala que aprendemos na escola (Dó Ré Mi Fá Sol Lá Si Dó) é o Dó!
-
-Mas isso não quer dizer que a música precisa começar naquela nota! O "atirei o pau no gato", por exemplo, tocado no tom de Dó, começa com a nota Sol!
-
-<table class="quadro_cinza" style='align:center; width:70%'>
-  <tr>
-    <td>A</td>
-    <td>ti</td>
-    <td>rei</td>
-    <td>o</td>
-    <td>pau</td>
-    <td>no</td>
-    <td>ga</td>
-    <td>to</td>
-    <td>to</td>
-  </tr>
-  <tr>
-    <td>G</td>
-    <td>F</td>
-    <td>E</td>
-    <td>D</td>
-    <td>E</td>
-    <td>F</td>
-    <td>G</td>
-    <td>G</td>
-    <td>G</td>
-  </tr>
-</table>
-
-Mas então porque é que a gente fala que á música é em Dó?!
-
-Pra entender isso a gente vai ter que esperar o próximo post, onde eu vou falar sobre **o centro das escalas**. 
-
-Fique ligado!
 
 
 
