@@ -37,9 +37,12 @@ O problema ao meu ver - repito - é que a literatura (e a didática) tradicional
 
 Mas isso pode ser consertado! =)
 
-Me acompanhe que, aos poucos, vou tentar te convencer disso.
+**[Entenda a música!](/)**
 
-> [Se muito vale o já feito, mais vale o que será](http://letras.mus.br/milton-nascimento/47439/)
+Eu tenho tentado contribuir de alguma forma, escrevendo sobre teoria [aqui neste blog](/). Espero que seja útil ;-)
+
+
+
 
 
 

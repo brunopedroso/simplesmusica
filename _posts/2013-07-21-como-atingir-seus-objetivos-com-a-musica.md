@@ -38,3 +38,6 @@ Se seu caminho é o de se tornar um músico erudito profissional, acho não sou 
 
 Mas se seu negócio é ter a prática da música mais presente em sua vida, e aprender as coisas de um jeito simples e prático, então talvez eu tenha algumas dicas úteis pra você.
 
+### Quer uma dica?
+
+Começa dando uma olhada nessas [8 dicas aqui.](/2013/04/27/8-dicas-para-aprender-musica-se-divertindo.html)

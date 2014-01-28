@@ -167,7 +167,11 @@ Otimizar o custo-benefício significa investir o mínimo possível e receber de 
 
 Chega de conversa. Vamos tocar um pouco? ;-)
 
+### Se preferir ler mais...
 
+Você já parou pra pensar sobre [o que significa aprender música](/2013/02/04/os-varios-saberes-musicais.html)?
+
+E sobre quais são os [seus objetivos com a música](/2013/07/21/como-atingir-seus-objetivos-com-a-musica.html)?
 
 
 

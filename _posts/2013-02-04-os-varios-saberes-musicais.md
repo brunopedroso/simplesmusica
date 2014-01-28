@@ -48,7 +48,9 @@ Acho que esse é o caminho que todo mundo acaba tendo que percorrer do zero, tod
 
 Aqui no blog mesmo você pode achar [um bocado de coisas](/) que estou escrevendo sobre teoria. Dá uma olhada!
 
+**Você tem alguma dificuldade específica em aprender música?**
 
+Eu adoraria saber mais... [Dá uma olhada nisso aqui!](/2013/01/15/qual-e-a-sua-dificuldade-em-aprender-musica.html)! 
 
 
 

@@ -36,10 +36,8 @@ Conheço muita gente que acaba em uma dessas duas situações:
   
   Qual é a _**sua**_ dificuldade? 
   
-  Eu ADORARIA saber! Por favor, **Deixe um comentário!**
+  Repito: Eu ADORARIA saber! Por favor, **Deixe um comentário!**
   
-  Tenho uma série de hipóteses sobre possíveis problemas do método tradicional, e acho que posso ter algo a contribuir. 
-  
-  Por isso estou começando a escrever aqui. Pretendo compartilhar conceitos, interpretações, análises e princípios que ajudaram a mudar minha relação com a música ao longo de 18 anos. Espero que eles possam ajudar a mudar a sua também!
+  Os resultados das minhas pesquisas, obviamente, irão sendo publicadas aqui no blog... 
   
 
