@@ -106,7 +106,9 @@ Por enquanto, esses nomes parecem meio sem sentido. Mas à medida que os conceit
 
 Como sempre, o negócio é tentar segurar um pouco a ansiedade, e tratar as regras (às vezes estranhas, admito) como uma convenção, simplesmente. Por enquanto, preocupe-se apenas em aprender como as coisas foram convencionadas. Depois elas vão fazer mais sentido...
 
-#### Dúvidas? Deixe um comentário!
+## E agora?
+
+Na verdade, bem mais divertido que entender os nomes dos intervalos é entender [como eles se combinam](/2014/01/11/consonancia-como-combinar-os-sons.html).
 
 
 
