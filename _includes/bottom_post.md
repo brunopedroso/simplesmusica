@@ -4,7 +4,7 @@
 <div style="background:#f8f8f8; border:1px solid #eee; padding:10px; margin:30px 0 10px 0">
   
   <p>
-    <strong>Agradeço muito</strong> se você puder compartilhar com seus amigos:
+    <strong>Gostou?</strong> Agradeço muito se você puder compartilhar com seus amigos:
   </p>
 
     {% include share.md %}
