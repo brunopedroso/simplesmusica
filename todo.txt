@@ -1,4 +1,5 @@
 
+- o melhor tom linkar pra outros no final
 
 - consonancia
   - colocar os sons
@@ -10,5 +11,6 @@
   - http://sambasdf.com.br/pagode-uma-breve-introducao/
 
 - qual é o tom apontar pro maior e menor
+
 
 poole https://github.com/mmcclimon/mr_poole

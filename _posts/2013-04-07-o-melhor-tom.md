@@ -111,7 +111,7 @@ Mas isso também é uma coisa que a gente treina.
 
 ### como treinar
 
-Um exercício ótimo é cantar uma música (ou um pedadinho dela) em um tom qualquer (aquele que estiver na cabeça na hora). Depois parar, chutar uma nota aleatoriamente, e aí tentar começar a música de novo dali.
+Um exercício ótimo é cantar uma música (ou um pedacinho dela) em um tom qualquer (aquele que estiver na cabeça na hora). Depois parar, chutar uma nota aleatoriamente, e aí tentar começar a música de novo dali.
 
 Outro exercício (pra quem já sabe tocar um instrumento) é tocar o acorde da tônica em um tom, sintonizar, e achar o lugar da melodia com a voz. Depois tocar o acorde da tônica de outra tonalidade e tentar sintonizar de novo achar a melodia. E por aí vai...
 
@@ -119,7 +119,11 @@ Não é fácil. Tem que treinar um pouco... No princípio a gente começa a cant
 
 De qualquer forma, essa é uma habilidade genial! Se você consegue mudar de tom na hora que quiser e sair cantando certinho, então você é FERA! =)
 
+### E agora?
 
+Talvez você queira saber um pouco mais sobre [o que é a tonalidade de uma música.](/2013/03/17/qual-e-o-tom.html).
+
+Mas se preferir, aqui estão algumas [dicas para aprender música.](/2013/04/27/8-dicas-para-aprender-musica-se-divertindo.html).
 
 
 
