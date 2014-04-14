@@ -40,4 +40,4 @@ Mas se seu negócio é ter a prática da música mais presente em sua vida, e ap
 
 ### Quer uma dica?
 
-Começa dando uma olhada nessas [8 dicas aqui.](/2013/04/27/8-dicas-para-aprender-musica-se-divertindo.html)
+Comece dando uma olhada nessas [8 dicas aqui.](/2013/04/27/8-dicas-para-aprender-musica-se-divertindo.html)

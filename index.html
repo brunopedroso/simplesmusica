@@ -36,7 +36,11 @@ title:
         </div>
 
       {% endfor %}
-  
+      
+      <div>
+        {% include form_assinar_horizontal.md %}
+      </div>
+      
   </article>
   
   <aside class="span4" style='padding:5px;'>
@@ -45,12 +49,10 @@ title:
       <a href="/pages/about.html">Sobre o Simples Música</a>
     </div>
     
-    <div style='margin-bottom:30px'>
-      {% include form_assinar.md %}
-    </div>
-    
     {% include share.md %}
+
+    {% include form_assinar_vertical.md %}
         
   </aside>
-
+  
 </div>

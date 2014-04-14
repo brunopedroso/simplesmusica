@@ -118,13 +118,3 @@ Todas essas coisas constituem uma linguagem que é escrita sobre as letras das n
 
 Ter familiaridade com [intervalos](/2013/05/16/Intervalos.html) e suas consonâncias vai ser bem útil quando formos falar de acordes e funções harmônicas. 
 
----
-
-Se você quer ficar sabendo quando eu publicar os próximos capítulos, inscreva-se para receber atualizações aí ao lado, ou curta a [página do Face](http://www.facebook.com/simplesmusica).
-
-
-
-
-
-
-

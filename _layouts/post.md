@@ -13,14 +13,17 @@ layout: default
         {{ page.title }}
         <span style="font-size:0.4em; color:#ccc">{{ page.date | date: "%d/%m/%Y" }}</span>
       </h1>
-
+      
     </header>
     
     <p class="lead" style="color:#aaa">{{ page.description }}</p>
-
-    <section class="entry">{{ content }}</section>
-        
-    {% include bottom_post.md %}  
+    
+    {% include share.md %}
+    
+    <section class="entry" style='margin-top:20px'>{{ content }}</section>
+    
+    {% include share.md %}
+    {% include form_assinar_horizontal.md %}
       
   </div>
 </div>

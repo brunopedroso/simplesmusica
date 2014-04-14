@@ -1,6 +1,7 @@
 body {
   font-size: 16px;
   line-height: 24px;
+  color: #555;
 }
 
 h3 {
@@ -10,21 +11,6 @@ h3 {
 .footer {
   text-align: center;
   color:#aaa;
-}
-
-#popup_fique_tranquilo {
-  display:none;
-  z-index: 2;
-  background: #eee;
-  border:1px solid #ccc;
-  width: 300px;
-  padding:10px;
-  float:left;
-  position: absolute;
-  margin-left: 10px;
-  box-shadow: 5px 5px 5px #ddd;
-  -moz-border-radius: 5px;
-  border-radius: 5px;
 }
 
 .quadro_cinza {
