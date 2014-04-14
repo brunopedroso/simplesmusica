@@ -81,10 +81,14 @@ Ao longo do caminho, **é preciso ter um pouco de paciência** com essas lacunas
 
 ### E agora?
 
-Além dessas curiosidades inevitáveis, se alguma coisa ficar confusa ou mal explicada (seja nesse ou em outros posts), basta deixar um comentário que eu respondo.
+Além dessas curiosidades inevitáveis, se alguma coisa ficar confusa ou mal explicada (seja nesse ou em outros posts), basta responder a esse email que eu respondo.
 
 Você agora pode querer saber mais sobre [como usamos letras pra simbolizar as notas](/2013/02/26/cada-nota-uma-letra.html);
 
 ou pode preferir saber [como nascem as escalas](/2013/03/07/como-nascem-as-escalas.html).
 
 A decisão é sua =)
+
+De um modo ou de outro, você deveria assinar a newsletter aí abaixo para receber os meus artigos por email ;-)
+
+

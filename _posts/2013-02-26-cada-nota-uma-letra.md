@@ -8,7 +8,7 @@ creditos_capa: ""
 
 Se você não está acostumado com essa notação ainda, eu recomendo. É essa a notação que as famosas 'revistinhas' usam para denotar as cifras. É isso que o pessoal usa pra aprender a tocar Legião Urbana no colégio. É o que vão usar pra te ensinar "Violão Popular", Guitarra, Baixo, Cavaquinho, e por aí vai.
 
-Não vou ainda falar das 'cifras' propriamente ditas, mas das letras que usamos no lugar dos nomes das notas - Dó, Ré, Mi... Para não precisarmos escrever os nomes, com 2 ou 3 letras cada, convencionamos associar uma única letra a cada uma delas.
+Não vou ainda falar das 'cifras' propriamente ditas, mas das letras que usamos no lugar dos nomes das notas - Dó, Ré, Mi... Para não precisarmos escrever os nomes, com 2 ou 3 letras cada, a convenção americana (eles adoram ser diferentes) usa associar uma única letra a cada uma delas.
 
 Sendo 7 os nomes de notas, parece natural que escolhamos 7 letras também, certo?
 
@@ -106,6 +106,6 @@ O **G** é a que vem depois do **Fá**. Então é o **Sol**. O **Si** vem depois
 
 ### E agora?
 
-Sugiro que você leia um pouco sobre [como nascem as escalas](/2013/03/07/como-nascem-as-escalas.html).
+Além de assinar a minha newsletter aí embaixo, sugiro que você leia um pouco sobre [como nascem as escalas](/2013/03/07/como-nascem-as-escalas.html).
 
 Mas você também pode ler [algumas dicas legais](/2013/04/27/8-dicas-para-aprender-musica-se-divertindo.html) que vão te ajudar a aprender música mais rápido. =)
