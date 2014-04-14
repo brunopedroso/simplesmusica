@@ -28,7 +28,7 @@ Conheço muita gente que acaba em uma dessas duas situações:
   
   Qual delas? Ou você está em um estágio diferente? 
   
-  Eu ADORARIA saber! Por favor, **Deixe um comentário!**
+  Eu ADORARIA saber! Por favor, responda a esse email me dizendo!
   
 ### Será que há alguma dificuldade em comum? 
   
@@ -36,8 +36,7 @@ Conheço muita gente que acaba em uma dessas duas situações:
   
   Qual é a _**sua**_ dificuldade? 
   
-  Repito: Eu ADORARIA saber! Por favor, **Deixe um comentário!**
+  Repito: Eu ADORARIA saber! Por favor, **Me responda a esse email!**
   
-  Os resultados das minhas pesquisas, obviamente, irão sendo publicadas aqui no blog... 
   
 
