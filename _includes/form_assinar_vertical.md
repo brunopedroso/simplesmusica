@@ -33,4 +33,5 @@
     $('#mc-embedded-subscribe').click(function(e){
       _gaq.push(['_trackEvent', 'assinar', 'submit', 'email', 1]);
     });
+  })
 </script>
