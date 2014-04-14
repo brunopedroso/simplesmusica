@@ -30,8 +30,7 @@
 
 <script type="text/javascript" charset="utf-8">
   $(function(){
-    $('#link_assinar_email').click(function(e){
-      $('#mc-embedded-subscribe').slideDown();
+    $('#mc-embedded-subscribe').click(function(e){
       _gaq.push(['_trackEvent', 'assinar', 'submit', 'email', 1]);
     });
 </script>
