@@ -1,4 +1,4 @@
-<div style="background:#f0f0f0; border:1px dashed #ccc; margin-top:30px">
+<div style="background:#f0f0f0; border:1px solid #ccc; margin-top:30px">
 
   <div class="" style='padding:20px'>
     

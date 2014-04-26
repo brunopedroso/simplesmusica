@@ -1,4 +1,4 @@
-<div style="float: left; background:#f0f0f0; border:2px dashed #ccc; width:100%; margin-top:30px">
+<div style="float: left; background:#f0f0f0; border:1px solid #ccc; width:100%; margin-top:30px">
 
   <div class="" style='float: left; padding:40px'>
     
