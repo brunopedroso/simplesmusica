@@ -3,11 +3,11 @@
   <div class="" style='float: left; padding:40px'>
     
     <h3 style='line-height:1.1em; margin:0 0 10px 0; font-size:2em; margin-bottom: 10px; color: #4D4DB9'>
-      Aulas de música grátis em seu email!
+      Aulas de música grátis em seu email
     </h3>
 
     <span style='font-style: italic; color: #777'>
-      Receba meus artigos fresquinhos em sua caixa de entrada.
+      Receba meus artigos fresquinhos em sua caixa de entrada, além de conteúdos exclusivos.
       Você ainda poderá me fazer perguntas, respondendo os emails!
     </span>
       
