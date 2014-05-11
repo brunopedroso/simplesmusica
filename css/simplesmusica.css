@@ -13,6 +13,14 @@ h3 {
   color:#aaa;
 }
 
+code {
+  font-weight: bold;
+  font-size: 18px;
+  font-family: monospace;
+  border:0;
+
+}
+
 .quadro_cinza {
   text-align:center;
   font-size:1.3em;
