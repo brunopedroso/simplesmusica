@@ -9,7 +9,7 @@ creditos_capa: http://www.flickr.com/photos/guy_on_the_streets/3034517059/
 Conheço muita gente que acaba em uma dessas duas situações:
 
 <a href="{{page.creditos_capa}}" target="_blank">
-  <img src="{{page.img_capa}}" style='width:36%' class="deslocado" />
+  <img src="{{page.img_capa}}" style='width:50%' class="deslocado" />
 </a>
 
 #### 1) Você já tentou aprender um instrumento, mas nunca conseguiu.

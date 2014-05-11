@@ -14,7 +14,7 @@ Pra entender como as notas se combinam umas com as outras, de modo mais geral, p
 
 Quanto mais *consonantes* são duas notas, mais elas combinam. E a consonância, assim como tudo na música, [é relativa](/2013/03/17/qual-e-o-tom.html). Quero dizer que a consonância entre o G e o C é a mesma que entre o A e o D, e entre o B e o E. Esses [intervalos](/2013/05/16/Intervalos.html) são igualmente consonantes, já que todos têm o mesmo "tamanho".
 
-<img src='/img/consonancia/3_quintas.png' style='width:80%; margin:10px 0' class=""/>
+<img src='/img/consonancia/3_quintas.png' style='width:90%; margin:10px 0' class=""/>
 
 Desse modo, vou limitar os exemplos dados aqui a intervalos entre o Dó e outras notas, mas tenha em mente que basta 'girar' o ciclo de notas e tudo se aplica a qualquer outra.
 
@@ -36,7 +36,7 @@ Dada uma nota, por exemplo um Dó, quais as notas que mais combinam com ela? (Ou
 
 A nota que mais combina com o Dó é obviamente um outro Dó que vibra exatamente na mesma frequência (imagine dois instrumentos tocando a mesma nota):
 
-<img src='/img/consonancia/intervalo_primeira.png' style='margin:10px 0' class=""/>
+<img src='/img/consonancia/intervalo_primeira.png' style='margin:10px 0;' class=""/>
 
 (nessa figura eu desloquei uma das ondas um pouquinho pra vermos melhor as duas linhas...)
 

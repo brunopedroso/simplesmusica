@@ -13,11 +13,13 @@ Esse sistema de 12 notas (que se chama **Sistema Temperado**) foi proposto no s�
 
 Bem antes de dividirmos o ciclo em 12, já estávamos bastante acostumados a dividi-lo em 7 notas, como aquelas que aprendemos na escola.
 
-<img src="/img/ciclo7.png" style='width:50%' class="deslocado" />
+<img src="/img/ciclo7.png" style='width:65%' class="deslocado" />
 
 Na verdade, até hoje, exceto por alguns [movimentos vanguardistas](http://pt.wikipedia.org/wiki/Dodecafonismo) bem específicos, é muito raro se utilizarem as 12 notas todas em uma música só. O mais comum é usarmos 7, embora também existam escalas com 5 e 6 notas.
 
 A coleção específica de notas que escolhemos para tocar uma música (ou um "trecho" de uma música) formam o que chamamos de **Escala**.
+
+<br/><br/><br/>
 
 ### De onde vieram as escalas de 7 notas?
 

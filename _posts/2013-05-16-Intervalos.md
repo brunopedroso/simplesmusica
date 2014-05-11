@@ -8,7 +8,7 @@ creditos_capa: ""
 
 Depois das notas, a camada mais simples de estruturas musicais que precisamos conhecer são os intervalos.
 
-<img src='/img/intervalos/intervalos.png' style='width:55%;' class="deslocado"/>
+<img src='/img/intervalos/intervalos.png' style='width:70%;' class="deslocado"/>
 
 O intervalo é a distância que existe entre duas notas. É o que determina a relação entre elas.
 
@@ -24,7 +24,7 @@ Uma das coisas legais de organizar as notas num ciclo, é que o tamanho dos inte
 
 Uma terça menor, por exemplo, é representada por um ângulo reto (90°) e a terça maior por um ângulo de 120°. Assim fica bem fácil bater o olho e reconhecer esses intervalos!
 
-<img src='/img/intervalos/intervalos_angulos.png' style='width:55%;' class=""/>
+<img src='/img/intervalos/intervalos_angulos.png' style='width:70%;' class=""/>
 
 ## Nomenclatura dos intervalos
 
@@ -36,7 +36,7 @@ Acontece que a esses nomes não seguem uma lógica muito regular. Tem até uma c
 
 O **primeiro nome** é um 'numeral' que se refere à [estrutura de 7 notas](/2013/03/07/como-nascem-as-escalas.html) (não à de 12, como algumas pessoas podem intuir). Quer dizer que entre o Dó e o Mi temos sempre uma terça, independente se a terça possui 3, 4 ou 5 semitons!
 
-<img src='/img/intervalos/c_e_terca.png' style='width:55%;' class=""/>
+<img src='/img/intervalos/c_e_terca.png' style='width:70%;' class=""/>
 
 Não importa se estamos falando do intervalo entre o C# e o Eb, ou entre o C (natural) e o E#. O primeiro 'termo' do nome do intervalo só diz respeito aos *nomes* das notas.
 
@@ -44,7 +44,7 @@ O **segundo termo** sim, especifica com exatidão quantos semitons existem naque
 
 Agora, veja bem: dado um nome, nós sabemos exatamente o tamanho do intervalo. Mas o oposto não é verdade! Se eu disser que um intervalo tem 3 semitons, qual é o nome dele?...
 
-<img src='/img/intervalos/que_intervalo.png' style='width:55%;' class=""/>
+<img src='/img/intervalos/que_intervalo.png' style='width:70%;' class=""/>
 
 Podem ser dois (ou mais!): uma terça menor, ou uma segunda aumentada. =/ Hein?!
 
@@ -68,7 +68,7 @@ O segundo termo do nome dos intervalos não são sempre os mesmos. Se estivermos
 
 Em termos visuais:
 
-<img src='/img/intervalos/todos_intervalos.png' style='width:55%;' class=""/>
+<img src='/img/intervalos/todos_intervalos.png' style='width:70%;' class=""/>
 
 Todos os intervalos podem ser aumentados (um semitom a mais) ou diminutos (um semitom a menos). Isso quer dizer que por exemplo, a 4a diminuta é igual à 3a maior; e que a 6a aumentada é igual à 7a menor.
 
@@ -84,7 +84,7 @@ Esquisito né? =)
 
 Não é não... é simples... sempre dá um a menos... veja bem:
 
-<img src='/img/intervalos/2_3_4.png' style='width:55%;' class=""/>
+<img src='/img/intervalos/2_3_4.png' style='width:70%;' class=""/>
 
 Sendo a oitava um ângulo de 360°, é legal saber que se entre entre as notas X e Y existe, por exemplo, um intervalo de quarta, então entre Y e o próximo X teremos um intervalo de...? quinta!
 
@@ -96,7 +96,7 @@ E o mesmo acontece com a 2a e a 7a.
 
 A regra é fácil: a soma tem que dar 9, que é igual a uma oitava. Lembra? sempre um a menos! =)
 
-<img src='/img/intervalos/4_5_8.png' style='width:55%;' class=""/>
+<img src='/img/intervalos/4_5_8.png' style='width:70%;' class=""/>
 
 ## Convenções
 

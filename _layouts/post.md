@@ -6,7 +6,7 @@ layout: default
 <a href='{{site.baseurl}}index.html'> &lt;&lt; Simples Música</a>
 
 <div class="row-fluid">
-  <div class="span8 offset3">
+  <div class="span6 offset4">
   
     <header>
       <h1>

@@ -8,7 +8,7 @@ img_capa: "/img/understand_music.png"
 Esse vídeo realmente ficou muito bem feito! A plasticidade das imagens, e a conexão entre elas e a música realmente são lindos! Ele explora muito bem a estética da notação tradicional e deixa uma mensagem muito bonita e verdadeira no final. Se você não assistiu ainda, você realmente deveria! 
 
 
-<iframe src="http://player.vimeo.com/video/54763818?badge=0" width="70%" height="300px" frameborder="0" style='float:left; margin:20px 20px 20px -20%'>
+<iframe src="http://player.vimeo.com/video/54763818?badge=0" width="90%" height="300px" frameborder="0" style='float:left; margin:20px 20px 20px -30%'>
 </iframe>
 
 Se você assistiu, responda: você concorda com essa mensagem? De que **não é preciso entender a música para gostar dela**?

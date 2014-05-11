@@ -11,7 +11,7 @@ creditos_capa: http://www.flickr.com/photos/katiegail/281807880/
 </blockquote>
 
 <a href="{{page.creditos_capa}}" target="_blank">
-  <img src="{{page.img_capa}}" style='width:50%' class="deslocado" />
+  <img src="{{page.img_capa}}" style='width:70%' class="deslocado" />
 </a>
 
 Você pode seguir o caminho da maioria dos músicos profissionais (sobretudo os 'acadêmicos') e estudar seu instrumento sete ou oito horas diárias. Mas você também pode tocar um pouquinho todo dia, por anos, e viver bastante satisfeito com o quanto você toca.

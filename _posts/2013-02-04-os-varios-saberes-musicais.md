@@ -11,7 +11,7 @@ O entendimento integral da música possui várias facetas.
 Antes de mais nada, é preciso conhecer o seu instrumento e ter a habilidade e coordenação motora suficientes para produzir cada uma das notas no momento exato (mesmo que seu instrumento seja sua própria voz!) Esse é o que vou chamar aqui de **"conhecimento motor"**.
 
 <a href="{{page.creditos_capa}}" target="_blank">
-  <img src="{{page.img_capa}}"  width="50%" frameborder="0" style='float:left; margin:20px 20px 20px -20%' />
+  <img src="{{page.img_capa}}"  width="60%" frameborder="0" style='float:left; margin:20px 20px 20px -30%' />
 </a>
 
 Mas não basta ser capaz de manipular o instrumento, é preciso "sentir" antecipadamente quais notas devem ser tocadas. Há que se concentrar na música, reconhecer e interpretar sua estrutura, ainda que inconscientemente. É preciso escutar antes com nosso "ouvido interno" para só então traduzir isso nos movimentos certos e fazer o instrumento soar. Essa intuição, que todos temos em algum grau, é o que chamarei de **"conhecimento sensorial"**.

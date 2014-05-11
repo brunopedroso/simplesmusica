@@ -25,13 +25,13 @@ Cada música que a gente for cantar vai ter um tom ideal diferente. Isso porque 
 Imagine que esses são os começos de 3 músicas diferentes, as três em [C maior](/2013/04/01/maior-menor-o-centro-da-escala.html):
 
 Essa explora a região 'alta' da escala, acima do C: <br/>
-<img src='/img/o-melhor-tom/melodia_alta.png'  style='margin:10px 0; height:200px'/>
+<img src='/img/o-melhor-tom/melodia_alta.png'  style='margin:10px 0; height:250px'/>
 
 Essa explora o meio da escala, 'ao redor' do C: <br/>
-<img src='/img/o-melhor-tom/melodia_media.png' style='margin:10px 0; height:200px'/>
+<img src='/img/o-melhor-tom/melodia_media.png' style='margin:10px 0; height:250px'/>
 
 E essa é mais grave, se desenvolvendo 'abaixo' do C: <br/>
-<img src='/img/o-melhor-tom/melodia_baixa.png' style='margin:10px 0; height:200px'/>
+<img src='/img/o-melhor-tom/melodia_baixa.png' style='margin:10px 0; height:250px'/>
 
 Cada uma delas provavelmente vai ficar melhor em um tom diferente pra você... Digamos que a segunda delas fica muito confortável pra você. Isso quer dizer que a primeira ficaria melhor num tom um pouco mais baixo... talvez em A; e que a terceira ficaria melhor lá pelo E ou F...
 
@@ -45,11 +45,11 @@ Seja como for, a extensão da voz humana normalmente é de umas duas oitavas. Te
 
 A minha voz, por exemplo, vai de um F até outro F, duas oitavas acima.
 
-<img src='/img/o-melhor-tom/minha_extensao.png' style='margin:10px 0; width:50%'/>
+<img src='/img/o-melhor-tom/minha_extensao.png' style='margin:10px 0; width:70%'/>
 
 Sendo que o F mais grave é uma nota *bem* grave pra mim, e o F lá de cima é uma nota já bem alta, que fica quase pedindo pra eu fazer um falsete. Então o ideal pra mim é cantar músicas que fiquem dentro de uma oitava e meia, mais ou menos. Digamos, de um A até o D da outra oitava.
 
-<img src='/img/o-melhor-tom/regiao_mais_confortavel.png' style='margin:10px 0; width:70%'/>
+<img src='/img/o-melhor-tom/regiao_mais_confortavel.png' style='margin:10px 0; width:80%'/>
 
 ## O Tom do Tom
 
@@ -98,7 +98,7 @@ Sério, não tem outro jeito... Você tem que cantar a música em um tom e ver c
 Agora, o que dá pra fazer é procurar com inteligência... Se você tentou a princípio num tom que está *muito* ruim, então não adianta procurar na próxima mais aguda, que por mais que fique um pouco melhor, ainda vai estar longo do ideal. Nesse caso, é mais fácil pular logo pro outro 'lado' da escala, tentando logo uma 4a ou 5a acima.
 
 <div style='width:100%; text-align:center'>
-  <img src='/img/o-melhor-tom/pula_pro_outro_lado.png' style='margin:10px 0; width:50%;'/>
+  <img src='/img/o-melhor-tom/pula_pro_outro_lado.png' style='margin:10px 0; width:70%;'/>
 </div>
   
 De qualquer jeito, tem uma habilidade que precisa ser desenvolvida: *reconhecer* o tom, ou *sintonizar* nele. 

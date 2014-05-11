@@ -27,17 +27,17 @@ Sim! Existe um motivo pra elas terem dois nomes. Mas ignore isso por enquanto. V
 Desse modo, as teclas pintadas de verde na figura acima (considerando as brancas e as pretas) são: 
 
 <div class="quadro_cinza"> 
-  Dó &nbsp;&nbsp; 
-  Dó# &nbsp;&nbsp; 
-  Ré &nbsp;&nbsp; 
-  Ré# &nbsp;&nbsp; 
-  Mi &nbsp;&nbsp; 
-  Fá &nbsp;&nbsp; 
-  Fá# &nbsp;&nbsp;
-  Sol &nbsp;&nbsp; 
-  Sol# &nbsp;&nbsp; 
-  Lá &nbsp;&nbsp; 
-  Lá# &nbsp;&nbsp; 
+  Dó &nbsp;
+  Dó# &nbsp;
+  Ré &nbsp;
+  Ré# &nbsp;
+  Mi &nbsp;
+  Fá &nbsp;
+  Fá# &nbsp;
+  Sol &nbsp;
+  Sol# &nbsp;
+  Lá &nbsp;
+  Lá# &nbsp;
   Si
 </div>
   

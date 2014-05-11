@@ -24,7 +24,7 @@ Dado que estamos usando [uma escala de 7 notas](/2013/03/07/como-nascem-as-escal
 
 Aqui estão as 7 opções de tônica:
 
-<img src='/img/o_centro_da_escala/tonica_todos_graus_de_c.png' style='width:80%;margin:10px 0'/>
+<img src='/img/o_centro_da_escala/tonica_todos_graus_de_c.png' style='margin:10px 0'/>
 
 Como você pode observar, as notas são exatamente as mesmas, mas a nota mais importante (a tônica) muda. Na figura, isso está representado com uma linha ligeiramente mais grossa.
 
@@ -36,7 +36,7 @@ Eu sei, bem esquisito... =/ Mas não se preocupe, não vamos precisar falar muit
 
 Pra ficar mais fácil comparar, vou girar todas elas (exceto a primeira) pra deixar a tônica sempre alinhada com o ponteiro que marca as 6 horas:
 
-<img src='/img/o_centro_da_escala/tonicas_linhadas.png' style='width:80%;margin:10px 0'/>
+<img src='/img/o_centro_da_escala/tonicas_linhadas.png' style='margin:10px 0'/>
 
 Veja que, olhando todas elas da mesma perspectiva, dá pra ver que nenhuma delas possui a mesma forma. Cada uma tem um desenho diferente. E cada uma possui uma sonoridade diferente também!
 
@@ -50,11 +50,11 @@ Por quê?
 
 Se você olhar com calma, verá que o modo de F e o de G são muito parecidos com o de C...
 
-<img src='/img/o_centro_da_escala/modos_maiores.png' style='width:80%;margin:10px 0'/>
+<img src='/img/o_centro_da_escala/modos_maiores.png' style='margin:10px 0'/>
 
 ...e que os modos de D e de E são muito parecidos com o de A.
 
-<img src='/img/o_centro_da_escala/modos_menores.png' style='width:80%;margin:10px 0'/>
+<img src='/img/o_centro_da_escala/modos_menores.png' style='margin:10px 0'/>
 
 Tirando o que começa em B (o Lócrio), todos os outros 6 podem ser reunidos em dois grupos de 3. Esses grupos são os modos modernos que conhecemos como **Maior** e **Menor**. =)
 

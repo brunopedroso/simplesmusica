@@ -19,7 +19,7 @@ Taí um ponto do qual poucas pessoas discordariam: pra tocar *bem* um instrument
 
 Talvez... Vamos com calma.
 
-<img src='http://quadroseretratos.files.wordpress.com/2012/03/victorian-lady-ii.jpg?w=690' style='width:45%;' class="deslocado"/>
+<img src='http://quadroseretratos.files.wordpress.com/2012/03/victorian-lady-ii.jpg?w=690' style='width:60%;' class="deslocado"/>
 
 
 Antes de mais nada é preciso definir o que significa tocar *bem*. E isso acho que é assunto (no mínimo) para um post inteiro. 
@@ -56,7 +56,7 @@ Mas como você pode praticar de um modo divertido? Vou tentar enumerar algumas d
 
 Gosto, sabe com é... Cada um tem o seu. =]
 
-<img src='http://farm9.staticflickr.com/8286/7639092050_283e9274d3_z.jpg' style='width:45%;' class="deslocado"/>
+<img src='http://farm9.staticflickr.com/8286/7639092050_283e9274d3_z.jpg' style='width:60%;' class="deslocado"/>
 
 Quando você pensou em aprender a tocar pela primeira vez, aposto que estava em um momento de catarse, ouvindo uma música que gostava muito! Imagino que você deve ter visto ou ouvido seu ídolo tocando, ficou arrepiado e passou dias se imaginando fazendo a mesma coisa, tocando a mesma música.
 
@@ -90,12 +90,11 @@ Se errou uma nota, ou se esqueceu a letra, passe por cima do seu erro. Ignore. F
 
 ### 4) Aprenda várias músicas ao mesmo tempo
 
-<img src='http://farm4.staticflickr.com/3377/3261580643_4c103436e1_z.jpg?zz=1' style='width:45%;' class="deslocado"/>
+<img src='http://farm4.staticflickr.com/3377/3261580643_4c103436e1_z.jpg?zz=1' style='width:60%;' class="deslocado"/>
 
 Como o negócio é se divertir, e tocar muito, você não pode ficar sempre na mesma música. Senão enche o saco. Ainda que você só esteja conseguindo tocar um pedaço de uma música, ou tocando ela bem simplificada, o ideal é não se deixar cansar. 
 
 Toque o pedaço que você está estudando, repita, repita, erre, conserte... Cansou? Dá uma paradinha pra descansar e começa a tirar outra música, pra não se cansar daquela.
-
 
 ### 5) Corra por fora
 
@@ -119,7 +118,7 @@ Nada contra (ou quase nada ;-]) os métodos baseados em leitura, mas treinar o o
 
 Eu disse como quem não quer nada mais acima, mas a verdade é que as primeiras aulas de violão que tive foram pra tocar Marcha Soldado e Cai Cai Balão. Na época eu não tinha nenhuma dessas visões que estou escrevendo, mas algumas coisas eu aprendi bem cedo.
 
-<img src='http://farm1.staticflickr.com/10/11443784_75673db8e4.jpg' style='width:45%;' class="deslocado"/>
+<img src='http://farm1.staticflickr.com/10/11443784_75673db8e4.jpg' style='width:60%;' class="deslocado"/>
 
 Nos primeiros dias, aquelas duas músicas até que deram pano pra manga... Fiquei brincando com dois acordes, tentando tirar os dedos de uma posição e 'monta-los' na outra. Mas logo esse primeiro desafio foi vencido e a coisa ficou bem chata... Marcha Soldado e Cai Cai Balão não são as música mais legais do mundo, cá pra nós... =/
 

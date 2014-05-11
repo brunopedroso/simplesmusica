@@ -68,8 +68,8 @@ Sabe antes da orquestra começar a tocar, que um violinista toca uma nota e os o
 
 Pura convenção. Assim como alguém deve ter pego um pedaço de pau e dito "esse tamanaho aqui é o Metro", e aí todo mundo começou a medir as coisas em metro.
 
-<img src='/img/ciclo12.png' style='width:40%; margin:20px'/>
-<img src='/img/ciclo12_letras.png' style='width:40%; margin:20px'/>
+<img src='/img/ciclo12.png' style='width:60%; margin:20px'/>
+<img src='/img/ciclo12_letras.png' style='width:60%; margin:20px'/>
 
 Se alguém souber alguma história romântica sobre a escolha do Lá, por favor, conte pra gente nos comentários.
 
@@ -101,7 +101,7 @@ Aí depois decora o **C**, que é o **Dó**, e pronto. Já dá pra achar todas a
 
 O **G** é a que vem depois do **Fá**. Então é o **Sol**. O **Si** vem depois do **Lá**, então ele é o **B**. E por aí vai. Começa fazendo a conta, e logo logo, quando você perceber, já decorou. Mole =)
 
-<img src="/img/decorando.png" style="width:60%"/>
+<img src="/img/decorando.png" style="width:80%"/>
 
 
 ### E agora?

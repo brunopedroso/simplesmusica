@@ -14,7 +14,7 @@
     <div id="" style="margin-top:10px">
       
       <form action="http://Notyet.us2.list-manage.com/subscribe/post?u=1add2b0d2d8fac83d25d4a1fe&amp;id=1df4229c10" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate style="margin:0">
-        <input type="email" placeholder='Digite seu email' value="" name="EMAIL" id="mce-EMAIL" style='margin:5px 5px 0 0; width:300px'>
+        <input type="email" placeholder='Digite seu email' value="" name="EMAIL" id="mce-EMAIL" style='margin:5px 5px 0 0; width:250px'>
         <input type="submit" value="Quero receber !" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style='margin-top:5px'>
         <br/>
       </form>

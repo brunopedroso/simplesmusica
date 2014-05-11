@@ -16,7 +16,7 @@ O que realmente caracteriza a melodia não são aquelas frequências sonoras (no
 
 Como assim?
 
-<img src='/img/qual-e-o-tom/levemente_desafinado.png' style='width:40%;' class="deslocado"/>
+<img src='/img/qual-e-o-tom/levemente_desafinado.png' style='width:55%;' class="deslocado"/>
 
 Isso quer dizer que se tocarmos um instrumento com todas as notas igualmente desafinadas (ligeiramente mais agudas que o normal, por exemplo), ninguém vai perceber.
 
@@ -28,7 +28,7 @@ Em última instância, a própria afinação é uma coisa relativa! Imagine uma 
 
 ## Desafinando um pouquinho mais
 
-<img src='/img/qual-e-o-tom/do_sustenido_maior.png' style='width:30%; float:left; margin: 20px'/>
+<img src='/img/qual-e-o-tom/do_sustenido_maior.png' style='width:45%; float:left;' class='deslocado'/>
 
 <br/>
 
@@ -38,11 +38,8 @@ Temos que deslocar todas as outras notas igualmente, mantendo a mesma 'forma' en
 
 (Note que agora precisamos de várias notas 'sustenidas'... todas elas, na verdade!)
 
-<br/>
-<br/>
-<br/>
-
-<img src='/img/qual-e-o-tom/re_maior.png' style='width:30%; float:left; margin: 20px'/>
+<br/><br/>
+<img src='/img/qual-e-o-tom/re_maior.png' style='width:45%; float:left;' class='deslocado'/>
 
 E se "rodarmos" a escala mais um pouquinho, tudo bem também!
 
@@ -50,7 +47,7 @@ E se "rodarmos" a escala mais um pouquinho, tudo bem também!
 
 Ou seja: se as 7 notas escolhidas estiverem relativamente dispostas da mesma "forma", as características da **escala** se preservam. Então podemos começar a música literalmente de **qualquer nota**, contanto que as outras notas todas sejam tomadas de modo a manter exatamente a mesma "forma".
 
-<br/><br/>
+<br/>
 
 ## Tonalidade
 
@@ -58,10 +55,9 @@ Dependendo da altura em que se toca a música, dizemos que ela está em uma dete
 
 Veja o 'atirei o pau no gato' em C e em D:
 
-<img src='/img/o_centro_da_escala/gato_c.png' style='width:45%;margin:20px 5px 30px 5px'/>
-<img src='/img/o_centro_da_escala/gato_d.png' style='width:45%;margin:20px 5px 30px 5px'/>
+<img src='/img/o_centro_da_escala/gato_c.png' style='width:350px;margin:20px 5px 30px 5px'/>
+<img src='/img/o_centro_da_escala/gato_d.png' style='width:350px;margin:20px 5px 30px 5px'/>
 
-<br/>
 
 A música tocada na tonalidade de D é toda ela mais aguda do que quando tocada em C. O tom mudou, mas a música é essencialmente *a mesma*!
 
@@ -75,7 +71,7 @@ A verdade é que o lugar onde a música começa - a primeira nota - não tem nad
 
 A última! Isso mesmo, a última! O "Atirei o pau no gato" *termina* em C!
 
-<img src='/img/o_centro_da_escala/final_gato.png' style='width:80%;margin:20px 5px 30px 5px'/>
+<img src='/img/o_centro_da_escala/final_gato.png' style='width:400px;margin:20px 5px 30px 5px'/>
 
 E se não estiver satisfeito, saiba que o 'mi-au' que é gritado no final também é um Dó =)
 
