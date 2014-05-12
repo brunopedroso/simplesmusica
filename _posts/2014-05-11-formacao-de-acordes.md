@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Como são formados os acordes?"
-description: "Os acordes são os elementos básicos da harmonia musical. Entender como são formados é fundamental para que possamos enxergar a estrutura e a forma da música, a partir do que se compreende todo o resto."
+description: "Os acordes são os elementos básicos da harmonia musical. Entender como são formados é fundamental para que possamos enxergar a estrutura e a forma da música, a partir do que compreenderemos todo o resto."
 img_capa: '/img/formacao_acordes/capa.jpg'
 creditos_capa: "https://www.flickr.com/photos/26831821@N08/3686987204"
 ---
