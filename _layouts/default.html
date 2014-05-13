@@ -16,13 +16,13 @@
     {% endif %}
     
     {% if page.img_capa %}
-    <meta property="og:image" content="{{ site.baseurl }}{{ page.img_capa }}">
-    <link rel="image_src" href="{{ site.baseurl }}{{ page.img_capa }}" />
+    <meta property="og:image" content="{{ site.url }}{{ page.img_capa }}">
+    <link rel="image_src" href="{{ site.url }}{{ page.img_capa }}" />
     {% endif %}
     
     <link rel="alternate" type="application/atom+xml" href="http://feeds.feedburner.com/simplesmusica" title="Atom feed">
-    <link href="{{ site.baseurl }}css/bootstrap.min.css" rel="stylesheet" media="screen">
-    <link href="{{ site.baseurl }}css/simplesmusica.css" rel="stylesheet" media="screen">
+    <link href="{{ site.url }}/css/bootstrap.min.css" rel="stylesheet" media="screen">
+    <link href="{{ site.url }}/css/simplesmusica.css" rel="stylesheet" media="screen">
     <script src="http://code.jquery.com/jquery-latest.js"></script>
   </head>
   <body>
