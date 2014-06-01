@@ -2,7 +2,7 @@
 
   <div class="" style='padding:20px'>
     
-    <h3 style='line-height:1.1em; margin:0 0 10px 0; margin-bottom: 10px; color: #4D4DB9'>
+    <h3 style='line-height:1.1em; margin:0 0 10px 0; margin-bottom: 10px; color: #08c'>
       Aulas de música grátis!
     </h3>
 
