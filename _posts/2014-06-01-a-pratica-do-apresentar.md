@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Aprenda a se apresentar"
+title: "Como se apresentar - aquilo que ninguém te ensina na Música"
 description: "Aprender como tocar um instrumento, tecnicamente falando, é apenas parte do aprendizado musical. Aprender a se apresentar é tão importante e difícil quanto, mas ninguém te fala sobre isso."
 img_capa: '/img/eu_tocando_bsb.jpg'
 ---
@@ -13,7 +13,7 @@ Trata-se do aspecto psicológico e social de enfrentar seus medos e apresentar a
 
 Entre tocar sozinho, trancado no seu quarto, e tocar dentro do mesmo quarto para mais *uma* pessoa que seja, a distância é imensa! Mesmo sendo um amigo próximo com quem você tenha muita liberdade.
 
-Depois de aprender a segurar o instrumento, a manusea-lo, a mover os dedos certos para os lugares certos nos tempos exatos, sem adiantar nem atrasar; depois de ter decorado a música nota por nota, ter treinado as pares difíceis e ensaiado algumas vezes a música toda; mesmo depois disso tudo, ainda não acabou.
+Depois de aprender a segurar o instrumento, a mover os dedos certos para os lugares certos nos tempos exatos, sem adiantar nem atrasar; depois de ter decorado a música nota por nota, ter treinado as pares difíceis e ensaiado algumas vezes a música toda; mesmo depois disso tudo, ainda não acabou.
 
 Você ainda precisará aprender a ficar *calmo* para conseguir reproduzir aquilo tudo atento *ao que você está tocando* e não à outra pessoa, ao que ele deve estar achando, à possibilidade de errar, a como deveria se comportar caso errasse.
 
