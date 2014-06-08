@@ -2,11 +2,11 @@
 
   <div class="" style='float: left; padding:40px'>
     
-    <h3 style='line-height:1.1em; margin:0 0 10px 0; font-size:2em; margin-bottom: 10px; color: #08c'>
+    <h3 id='pitch' style='line-height:1.1em; margin:0 0 10px 0; font-size:2em; margin-bottom: 10px; color: #08c'>
       Aulas de música grátis em seu email
     </h3>
 
-    <span style='font-style: italic; color: #777'>
+    <span style='font-style: italic; color: #777' id='subpitch'>
       Receba meus artigos fresquinhos em sua caixa de entrada, além de conteúdos exclusivos.
       Você ainda poderá me fazer perguntas, respondendo os emails!
     </span>

@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+    
     <title>{% if page.title %} {{ page.title }} - {% endif %} Simples Música</title>
     <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
     
@@ -24,6 +25,21 @@
     <link href="{{ site.url }}/css/bootstrap.min.css" rel="stylesheet" media="screen">
     <link href="{{ site.url }}/css/simplesmusica.css" rel="stylesheet" media="screen">
     <script src="http://code.jquery.com/jquery-latest.js"></script>
+    
+    {% if page.url == '/2013/04/07/o-melhor-tom.html' %}
+      <!-- Load the Content Experiment JavaScript API client for the experiment -->
+      <!-- ref: https://developers.google.com/analytics/solutions/experiments-client-side -->
+      <script src="//www.google-analytics.com/cx/api.js?experiment=EAJbDTdTRJmXgCgw8ASSpQ"></script>
+      <script type="text/javascript" charset="utf-8">
+        var chosenVariation = cxApi.chooseVariation();
+        $(function(){
+          if (chosenVariation == 1) {
+            $('#pitch').text('Aprenda música sozinho!');
+          }
+        })
+      </script>
+    {% endif %}
+    
   </head>
   <body>
     

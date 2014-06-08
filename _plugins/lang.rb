@@ -1,1 +1,1 @@
-require 'jekyll/localization'
+#require 'jekyll/localization'
