@@ -3,11 +3,17 @@ layout: default
 title: 
 ---
 
-<div class="hero-unit" style='background:none; border-bottom:1px solid #ddd; padding:60px 60px 30px 60px;margin-right:0;'>
+<div class="hero-unit" style='background:none; padding:60px 0 10px 60px;margin-right:0; margin-botom:0'>
   <h1 style='font-size:90px; text-align:right; margin-right:0'>
     Simples Música<br/>
   </h1>
   <h2 style="text-align:right;line-height:40px; color:#999">Manual prático do auto-didata</h2>
+</div>
+
+<div class="row-fluid">
+  <section class="span12" style='background:#ccc; padding:10px 10px 10px 25px; background: #D6E6D7; border-radius:5px; margin-bottom:20px; text-align:left'>
+    <b>Novo no Simples Música?</b> Talvez você queira começar <a style='color:#01A32D' href='/start.html'>por aqui</a>.
+  </section>
 </div>
 
 <div class="row-fluid">
@@ -16,7 +22,7 @@ title:
 
     <span></span>
     
-    {% for post in site.posts limit: 20  %}
+    {% for post in site.posts limit: 7  %}
         
         <div class="span3" style="padding:20px 10px 10px 10px;">
           <img src="{{post.img_capa}}" />
@@ -36,11 +42,11 @@ title:
         </div>
 
       {% endfor %}
-      
-      <div>
-        {% include form_assinar_horizontal.md %}
+
+      <div style='float:left; width:100%;'>
+        <a href='/all_posts.html'>ver todas as postagens &gt;&gt;</a>
       </div>
-      
+
   </article>
   
   <aside class="span4" style='padding:5px;'>

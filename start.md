@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Comece por aqui"
+title: "Comece por aqui!"
 ---
 
 <style type="text/css" media="screen">
@@ -12,11 +12,11 @@ title: "Comece por aqui"
   }
 </style>
 
-Quer saber [sobre mim e o objetivo do blog?](about.html)
+Quer saber mais [sobre mim e o objetivo do blog?](about.html)
 
-[Esse](2013-01-15-qual-e-a-sua-dificuldade-em-aprender-musica.html) foi o post inaugural do blog
+[Esse](2013-01-15-qual-e-a-sua-dificuldade-em-aprender-musica.html) foi o post inaugural do blog. Se você ainda não me respondeu, comece por lá e me mande um email dizendo qual a sua dificuldade! =)
 
-Estou escrevendo aos poucos, mais ou menos de forma mensal. Aqui está o conteúdo que escrevi até então:
+Estou escrevendo aos poucos, mais ou menos de forma mensal. Aqui está o conteúdo que escrevi até agora:
 
 
 ### Teoria
