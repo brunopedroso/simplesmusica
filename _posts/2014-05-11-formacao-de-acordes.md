@@ -140,7 +140,9 @@ Estruturalmente, tanto faz se você usar um `Bm` (si menor) ou um `Bm7` (si meno
 
 #### próximos passos 
 
-Nos próximo posts vou analisar a estrutura das tríades que formamos dentro de cada tonalidade - que também conhecemos como campo harmônico - e em seguida vamos começar a entender 'pra que serve' cada acorde...
+[Aqui está o próximo post](2014/07/10/campo_harmonico.html) onde analiso a estrutura das tríades que formamos dentro de cada tonalidade - que também conhecemos como campo harmônico.
+
+E em seguida vamos começar a entender 'pra que serve' cada acorde...
 
 Estamos começando a entrar na parte boa! =)
 

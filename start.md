@@ -35,6 +35,7 @@ Estou escrevendo aos poucos, mais ou menos de forma mensal. Aqui está o conteú
     
 #### Acordes
 * [Tríades](2014-05-11-formacao-de-acordes.html)
+* [Campo Harmônico](2014/07/10/campo_harmonico.html)
 * mais coisa aqui logo logo...
 
 
