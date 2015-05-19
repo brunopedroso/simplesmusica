@@ -22,13 +22,15 @@ O significado comum da palavra *função* pode nos levar a crer que os acordes, 
 
 Não é bem isso. Não temos uma caixa de ferramentas cheia de acordes, e precisamos apenas saber qual deles escolher para cada caso... não é isso!
 
-Não sei exatamente de onde surgiu essa terminologia, mas acho que essa interpretação confunde um bocado as coisas. (Aliás, assim como várias outras terminologias e notações musicais tradicionais, como volta e meia cito aqui do blog.)
+Podemos sim pensar que o acorde possui uma *função*. E que normalmente podemos trocar um acorde em uma harmonia por um outro de mesma *função*. Mas não entenda que essa *função* possui um significado, uma semântica própria. Se o acorde pode assumir uma *função*, ela se dá tão somente do ponto de vista *sintático* da estrutura harmônica. Nunca do ponto de vista *semântico*.
 
-Pra ser justo, essa terminologia até que funciona em alguns casos. Por exemplo quando a gente substitui um acorde por outro em uma parte da música e diz "Pode usar esse outro acorde aqui, eles tem a mesma função." Nesse caso, faz sentido. 
+Mas aí já estamos entrando em uma seara muito técnica (que por sinal eu adoro! já que sou cientista da computação) que talvez seja desnecessária por agora.
 
-Mas de modo geral, cuidado com essa interpretação de que os acordes têm *funções* específicas, com significado próprio. Eu prefiro ver como 3 diferentes categorias de acordes dentro da tonalidade.
+Tudo o que eu quero deixar claro, por enquanto, é que as *funções* harmônicas não atribuem uma *finalidade* ou *propósito* específico a um acorde.
 
-Mas nós vamos manter essa nomenclatura mesmo. Afinal de contas ela é a convenção universal. Todo mundo chama elas assim. Não sou eu quem vai mudar isso agora =)
+**Entenda dessa forma**: atribuir uma *função* a um acorde é equivalente a dizer que o acorde cai em uma das 3 categorias que existem. Não mais que isso.
+
+Mas apesar de tudo isso, vamos usar essa terminologia mesmo, pois ela é a convenção utilizada por todo mundo.
 
 
 ## As 3 funções harmônicas

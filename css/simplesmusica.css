@@ -4,6 +4,11 @@ body {
   color: #555;
 }
 
+h2 {
+  margin:25px 0 15px 0;
+}
+
+
 h3 {
   margin-top:30px;
 }
