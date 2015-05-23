@@ -2,12 +2,11 @@
 layout: post
 title: "Acordes e suas funções"
 description: "Para entender como os acordes do campo harmônico são utilizados em uma música, precisamos primeiro entender como eles se relacionam entre si, assumindo 3 diferentes funções, que usaremos em seguida pra falar de cadências. Vamos a elas!"
-img_capa: '/img/funcoes_acordes/copos.png'
-creditos_capa: https://www.flickr.com/photos/22330403@N02/13927088574/in/photolist-ndFYdN-6YjLWY-6rhE2i-aukAbQ-nHLsEn-8s1nqB-7U2iGi-61Q7GK-dBP1aj-6v4j6D-7518Lf-65mq1s-GncVi-5tmmBp-6s63Yq-73pkh8-8ZXyJF-5zYCVe-nenecm-74WdPv-7d5p65-7jg3QY-5zfFYN-7d1wbR-73timm-533ogG-6Ttwbg-eEDtRV-73pkrR-6TxwA3-8T9TRf-73pkug-71dARf-71dASG-89LEKV-7518Gs-719Ben-6Wh2eL-6Ttwkp-6WcZM8-djyiH9-6Ttwox-e9mhpL-qeaKY6-fPiN8C-akwPF1-7b9wKT-8jmztV-btLkdY-pjZ9Kc
+img_capa: '/img/funcoes_acordes/acordes_subdominante.png'
 ---
 
-<a href="{{page.creditos_capa}}" target="_blank">
-  <img src="{{page.img_capa}}" style='width:80%; margin-left:-30%' class="deslocado" />
+<a href="https://www.flickr.com/photos/22330403@N02/13927088574/in/photolist-ndFYdN-6YjLWY-6rhE2i-aukAbQ-nHLsEn-8s1nqB-7U2iGi-61Q7GK-dBP1aj-6v4j6D-7518Lf-65mq1s-GncVi-5tmmBp-6s63Yq-73pkh8-8ZXyJF-5zYCVe-nenecm-74WdPv-7d5p65-7jg3QY-5zfFYN-7d1wbR-73timm-533ogG-6Ttwbg-eEDtRV-73pkrR-6TxwA3-8T9TRf-73pkug-71dARf-71dASG-89LEKV-7518Gs-719Ben-6Wh2eL-6Ttwkp-6WcZM8-djyiH9-6Ttwox-e9mhpL-qeaKY6-fPiN8C-akwPF1-7b9wKT-8jmztV-btLkdY-pjZ9Kc" target="_blank">
+  <img src="/img/funcoes_acordes/copos.png" style='width:80%; margin-left:-50%; -webkit-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.47); -moz-box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.47); box-shadow: 5px 5px 10px 0px rgba(0,0,0,0.47);' class="deslocado" />
 </a>
 
 
