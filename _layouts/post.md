@@ -23,8 +23,15 @@ layout: default
     <section class="entry" style='margin-top:20px'>{{ content }}</section>
     
     {% include share.md %}
-    {% include form_assinar_horizontal.md %}
+    <div class='not_members'>
+      {% include form_assinar_horizontal.md %}
+    </div>
       
   </div>
 </div>
 
+<br/><br/><br/>
+
+<script type="text/javascript" charset="utf-8">
+  {% include scripts.js %}
+</script>
