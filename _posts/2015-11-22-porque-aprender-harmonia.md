@@ -36,7 +36,7 @@ Eu pesquisava, lia, procurava saber, mas ficava sempre com o sentimento de que a
   
   E, no entanto, por ser uma estrutura fundamental para se falar e entender a *linguagem musical*, não parece muito coerente deixar as pessoas tocarem anos e anos sem fazerem sentido consciente do discurso que estão... repetindo.
   
-  É como ver uma pessoa que decorou a letra de uma música em inglês, e a canta perfeitamente, palavra por palavra, mas não entende bulhufas do que está cantando porque nunca estdou inglês. Agora, imagine alguém que sabe cantar eximiamente 200, 300 músicas dificílimas, com banca de professores avaliando e o cacete, por 4, 5 anos na faculdade... sem entender o que está cantando. Que maluquice, não?
+  É como ver uma pessoa que decorou a letra de uma música em inglês, e a canta perfeitamente, palavra por palavra, mas não entende bulhufas do que está cantando porque nunca estudou inglês. Agora, imagine alguém que sabe cantar eximiamente 200, 300 músicas dificílimas, com banca de professores avaliando e o cacete, por 4, 5 anos na faculdade... sem entender o que está cantando. Que maluquice, não?
   
   O fato é que se você entender sobre Harmonia, **cedo**, vai conseguir "entender" (em um sentido bem particular) as músicas que está tocando, e vai se divertir muuuuuuito mais. E com isso irá tocar muuuuuuito mais, melhorar horrores e... se divertir muito mais, e tocar muito mais e evoluir muito mais... tá, você já entendeu.
   
