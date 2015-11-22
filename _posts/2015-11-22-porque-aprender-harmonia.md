@@ -52,7 +52,7 @@ Eu pesquisava, lia, procurava saber, mas ficava sempre com o sentimento de que a
   
   A Harmonia é o contexto, o pano de fundo sobre o qual a Melodia se desenvolve. A Melodia "obedece" à Harmonia por baixo. Ao mesmo tempo, pode-se dizer que toda Melodia "traz uma Harmonia subjacente" a ela. Seja lá qual for a ordem dos fatores, o que é certo é que a relação entre Harmonia e Melodia é muito estreita e relevante!
   
-  A Harmonia normalmente possui "frases" maiores que as da melodia. É comum por exemplo uma frase harmônica de quatro compassos, por exemplo se desenvolver melodicamente em duas ou quatro frases melódicas menores.
+  A Harmonia normalmente possui "frases" maiores que as da melodia. É comum uma frase harmônica de quatro compassos, por exemplo se desenvolver melodicamente em duas ou quatro frases melódicas menores.
   
   Ao mesmo tempo, o "discurso" que se expressa pela Harmonia, com a sequência específica de acordes que compõem uma música, fazem parte de um "discurso" ainda maior, que compõe duas ou quatro daquelas frases harmônicas, de quatro compassos, para formar toda a primeira parte de uma música - o que nos estaria levando à seara conhecida como Forma Musical.
   
