@@ -58,7 +58,7 @@ Eu pesquisava, lia, procurava saber, mas ficava sempre com o sentimento de que a
   
   O estudo da Forma Musical trata da macro-estrutura da música. Se é formada por duas partes, como um samba típico; se possui apenas um ciclo que se repete, como um Blues; ou se são uma quadra de versos e um refrão que se alternam; ou, sei lá!, se é composta por um Prelúdio, um movimento Allegro, uma Fuga e uma conclusão... 
   
-  O estudo da Harmonia, portanto, está em uma jurisdição intermediária entre o mundo "macro" da *Forma* musical e o mundo "micro" da *Melodia*, com suas notas rápidas. Essa linguagem intermediária, tão comumente deixada de lado, é afinal o elo perdido que integra todas as perspectivas em um todo linguístico coeso e lindo.
+  O estudo da Harmonia, portanto, está em uma jurisdição intermediária entre o mundo "macro" da Forma Musical e o mundo "micro" da *Melodia*, com suas notas rápidas. Essa linguagem intermediária, tão comumente deixada de lado, é afinal o elo perdido que integra todas as perspectivas em um todo linguístico coeso e lindo.
   
   É por isso que você *precisa* entender sobre Harmonia; e é por isso também que quero tanto chegar a esse assunto.
   
