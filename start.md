@@ -33,9 +33,12 @@ Estou escrevendo aos poucos, mais ou menos de forma mensal. Aqui está o conteú
 * [Maior e Menor - o centro da escala](2013/04/01/maior-menor-o-centro-da-escala.html)
 * [O melhor tom pra você cantar](2013/04/07/o-melhor-tom.html)
 
-#### Acordes
+#### Harmonia
+* [Porquê aprender harmonia](2015/11/22/porque-aprender-harmonia.html)
 * [Tríades](2014/05/11/formacao-de-acordes.html)
 * [Campo Harmônico](2014/07/10/campo_harmonico.html)
+* [Funções Harmônicas](/2015/05/23/funcao-dos-acordes.html)
+
 * mais coisa aqui logo logo...
 
 
