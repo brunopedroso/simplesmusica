@@ -1,17 +1,17 @@
 <div style="background:#f0f0f0; border:1px solid #ccc; margin-top:30px">
 
   <div class="" style='padding:20px'>
-    
+
     <h3 style='line-height:1.1em; margin:0 0 10px 0; margin-bottom: 10px; color: #08c'>
-      Aulas de música grátis!
+      Receba por email!
     </h3>
 
     <span style='font-style: italic; color: #777'>
-      Receba meus artigos fresquinhos em sua caixa de entrada.
+      Receba os próximos capítulos fresquinhos em sua caixa de entrada, assim que forem publicados.
     </span>
-      
+
     <div id="" style="margin-top:10px">
-      
+
       <form action="http://Notyet.us2.list-manage.com/subscribe/post?u=1add2b0d2d8fac83d25d4a1fe&amp;id=1df4229c10" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" target="_blank" novalidate style="margin:0">
         <input type="email" placeholder='Digite seu email' value="" name="EMAIL" id="mce-EMAIL" style='margin:5px 5px 0 0; width:95%; height:30px; font-size:1.2em;'>
         <input type="submit" value="Quero receber !" name="subscribe" id="mc-embedded-subscribe" class="btn btn-primary" style='margin:10px 0 10px 0; width:100%; padding: 10px 5px; font-size:1.4em'>
@@ -25,7 +25,7 @@
     </div>
 
   </div>
-  
+
 </div>
 
 <script type="text/javascript" charset="utf-8">
