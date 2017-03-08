@@ -1,0 +1,32 @@
+
+
+Certo, no português nós temos uma noção do que faz uma frase ser "correta", do ponto de vista sintático. Nós classificamos as palavras em "verbo", "substantivo", "Pronome", etc. e depois verificamos se elas se encaixam, como um quebra cabeças com suas peças.
+
+Mas, musicalmente falando, o que significa uma sequência de acordes ser "completa"? O que faz surgir uma Cadência?
+
+Todas as explicações que li e ouvi até hoje utilizam-se, para tentar explicar essa estrutura sintática harmônica, da palavras Tensão e Resolução. Nesse sentido, uma frase musical forma uma Cadência quando ela cria um movimento de Tensão/Resolução.
+
+Sim, são termos estranhos... o que significa uma Tensão na música? E o que significa resolver essa tensão? 
+
+A verdade é que é difícil mesmo achar palavras que consigam expressar com precisão o sentimento que uma cadência nos causa. Então todos os autores (há muuuuito tempo, diga-se de passagem) utilizam uma figura de linguagem chamada Sinestesia (você lembra dessa aula de literatura?) para tentar captar o sentido da coisa.
+
+E muita gente chega até o ponto de tecer explicações teóricas, matemáticas, sobre esse sentimento de tensão, atribuíndo-o a uma característica dissonante de um um intervalo chamado trítono (que inclusive já mencionei em um outro post). E até que faz algum sentido!
+
+Por exemplo: dentro da tonalidade de C, um acorde de G7 seria o principal representante de um acorde de tensão, cuja resolução natural e definitiva se dá quando concluímos a frase tocando o acorde de C.
+
+Segundo essa explicação do Trítono, que mencionei, o acorde de G7 possuiria uma caraterística intrínseca responsável por nos causar um sentimento de instabilidade, de tensão. Esse sentimento nos seria causado pelo famigerado intervalo de três tons existentes entre as notas B e F - a terça e a sétima menor do acorde, respectivamente.
+
+Segundo essa explicação, esse acorde, ao "se mover" para o acorde de C, constituiria uma "resolução" dessa tensão no sentido de a nota B "escorregar" meio tom pra cima, chegando na nota C, e de a nota F "escorregar" meio tom pra baixo, chegando na nota E. Essas duas notas para onde escorregamos são, convenientemente, a tônica e a terça do acorde de C, e estaríamos então munidos de uma explicação racional sobre o sentimento de tensão/resolução. Fantástico, não?
+
+Mais ou menos. Essa explicação por algum tempo nos conforta, mas rapidamente ela se esgota e deixa a gente com um monte de dúvidas de novo.
+
+A verdade é que esse sentimento de Tensão/Resolução não é simplesmente uma característica intrínseca de certos pares de acordes. Não é uma característica natural dos acordes de G7 e C. 
+
+Podemos, por exemplo, criar uma cadência diferente com os acordes C e Bb. Ou com os acordes C e F; ou C e Dm; ou C e Cdim; C e Eb; C e Fm... Existem várias contraposições diferentes, com sonoridades diferentes, que podem ser usadas no lugar daquela clássica combinação cuja explicação do trítono nos conforta.
+
+Na verdade, a oposição que existe entre o acorde de G7 e o de C, nas músicas, tem relação também com o ritmo, ou o momento exato em que cada um desses acordes é atacado na música. É por isso que muitas vezes conseguimos substituir o acorde G7 por outros acordes que não têm o trítono, e criar tensões diferentes, com outros coloridos, mas que também conseguem compor uma contraposição equivalente.
+
+[um vídeo com dois exemplos de cadências: G7-C e F-C ?]
+  
+
+

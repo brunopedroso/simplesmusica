@@ -1,4 +1,14 @@
 
+  +
+    - instruções gmail na inscrição
+    - refazer AB com o CTA
+
+- outros posts sobre harmonia
+  - relação harmonica com o tom relativo
+  - modulações
+  - músicas mais simples (baladinhas, sequencias de 4 acordes; cantigas de roda (só alternância))
+  - fugas e choro
+
 - o melhor tom linkar pra outros no final
 
 - consonancia
@@ -16,3 +26,11 @@
 poole https://github.com/mmcclimon/mr_poole
 
 https://www.facebook.com/video.php?v=674478215935382&fref=nf
+
+
+
+--- sobre simplificações e 'dobramentos rítimicos' em cadências
+
+  A principal diferença entre essas cadências de 3 acordes para as de 2, no meu ponto de vista, é rítmica. Estruturalmente, em todos os lugares onde que se coloca uma cadência com 3 acordes, nós podemos simplificar, usando dois tempos no quinto grau. (Ao invez de tocar Dm-G7-C, toca-se G7-G7-C) A sonoridade
+
+---
