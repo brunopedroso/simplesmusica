@@ -155,24 +155,24 @@ Vamos a um exemplo (beeeem típico, diga-se de passagem): Imagine a seguinte seq
   C  Gm  A7  Dm  G7  C
 </pre>
 
-Nessa sequência, existem duas Cadências! A principal delas, e que deve ser mais fácil de reconhecer, são os 3 últimos acordes (Dm-G7-C), que consistem em um 2-5-1 caindo na tônica principal. Só que no meio do caminho existe também um (Gm-A7-Dm), que também é uma Cadência. Uma 4-5-1 !
+Nessa sequência, existem duas Cadências! A principal delas, e que deve ser mais fácil de reconhecer, são os 3 últimos acordes (`Dm-G7-C`), que consistem em um 2-5-1 caindo na tônica principal. Só que no meio do caminho existe também um `Gm-A7-Dm`, que também é uma Cadência. Uma 4-5-1 !
 
-Como assim?! O Dm não é o 2o grau?! E o Lá não é o sexto?!
+Como assim?! O `Dm` não é o 2o grau?! E o Lá não é o sexto?!
 
-Sim. Se estivéssemos falando em **relação** ao C. Mas aqui estamos falando em **relação** ao D!
+Sim. Se estivéssemos falando em **relação** ao `C`. Mas aqui estamos falando em **relação** ao tom de `Dm`!
 
 **Isso é muito importante!** Preste atenção!
 
-O 4-5-1 é **relativo**! Nesse caso, os acordes Gm e A7 nem sequer pertencem à tonalidade de C... Mas eles pertencem à tonalidade de Dm! Na tonalidade de Dm, o Gm é o 4o grau (subdominante), e o A7 é o quinto grau (a dominante).
+O 4-5-1 é **relativo**! Nesse caso, os acordes `Gm` e `A7` nem sequer pertencem à tonalidade de `C`... Mas eles pertencem à tonalidade de `Dm`! Na tonalidade de `Dm`, o `Gm` é o 4o grau (subdominante), e o `A7` é o quinto grau (a dominante).
 
-É como se, por alguns compassos, nós mudássemos rapidamente para o tom de Dm, fazendo uma Cadência 4-5-1, e quando chegássemos no Dm, então, voltássemos ao tom original e aquele acorde voltasse a desempenhar o papel de 2o grau do C.
+É como se, por alguns compassos, nós mudássemos rapidamente para o tom de `Dm`, fazendo uma Cadência 4-5-1, e quando chegássemos no `Dm`, então, voltássemos ao tom original e aquele acorde voltasse a desempenhar o papel de 2o grau do `C`.
 
 É exatamente isso que acontece! Só que essa passagem é tão rapidinha que a gente não chega nem a considerar que a música mudou de tom (modulou).
 
-Ainda assim, harmonicamente, o que acontece é que essa sequência possui duas Cadências - uma primeira (4-5-1) que nos leva para o acorde de Dm, e que, por sua vez, já faz parte da Cadência 2-5-1 que nos levará de volta pra casa!
+Ainda assim, harmonicamente, o que acontece é que essa sequência possui duas Cadências - uma primeira (4-5-1) que nos leva para o acorde de `Dm`, e que, por sua vez, já faz parte da Cadência 2-5-1 que nos levará de volta pra casa!
 
 
-Note que o acorde de Dm desempenha dois papéis: ele é o primeiro grau temporário onde se resolve a Cadência Gm-A7-Dm, e é também o segundo grau que começa a Cadência final, que vai se resolver em C.
+Note que o acorde de `Dm` desempenha dois papéis: ele é o primeiro grau temporário onde se resolve a Cadência `Gm-A7-Dm`, e é também o segundo grau que começa a Cadência final, que vai se resolver em `C`.
 
 
 ### Falando em Cadências
