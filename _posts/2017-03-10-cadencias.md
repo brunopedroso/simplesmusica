@@ -77,7 +77,7 @@ Se você tocar um e outro, um e outro, e depois tocar só o 'um' (o de dominante
 
 Sentir é mais importante que entender!
 
-Vou descrever as Cadências em temos das [funções]({{base}}/2015/05/23/funcao-dos-acordes.html) dos acordes na escala; e os acordes em termos do grau que ocupa nela.
+Vou descrever as Cadências em temos das [funções]({{base}}/2015/05/23/funcao-dos-acordes.html) dos acordes na escala; e os acordes em termos do [grau](/2014/07/10/campo_harmonico.html) que ocupa nela.
 
 Como sempre, vou dar os exemplos em dois tons (`C` e `Am`, pra ilustrar nos dois [modos]({{base}}/2013/04/01/maior-menor-o-centro-da-escala.html)) e você se lembre que a mesma coisa vale para qualquer tom, desde que se [transponha]({{base}}/2013/03/17/qual-e-o-tom.html) todos os acordes certinho.
 
@@ -177,7 +177,7 @@ Note que o acorde de `Dm` desempenha dois papéis: ele é o primeiro grau tempor
 
 ### Falando em Cadências
 
-A primeira parte de uma chorinho típico poderia ser descrita assim, harmonicamente:
+A primeira parte de um chorinho típico poderia ser descrita assim, harmonicamente:
 
 > *Depois da introdução, a música começa no acorde da tônica, faz uma Cadência para o acorde de 2o grau, e de lá faz uma Cadência para o 6o grau, modulando para o tom relativo; aí ela faz uma Cadência em torno da nova tônica (o sexto grau da original), e depois uma Cadência terminando no quinto grau do tom original, que é o acorde que chama a resolução que dá início à segunda frase. A segunda frase é quase igual à primeira, mas a segunda parte dela, ao invés de resolver no acorde de tensão, vai um pouco mais rápido e se desfecha numa grande e forte Cadência de retorno, enfim, para o 1o grau original.*
 
