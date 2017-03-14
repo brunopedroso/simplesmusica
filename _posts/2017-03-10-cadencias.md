@@ -18,6 +18,8 @@ Cadência é uma das muitas palavras abusadas na linguagem musical. É comum us�
 
 Mas a palavra possui um significado técnico preciso dentro do estudo da Harmonia. E trata-se de um conceito absolutamente central para seu entendimento.
 
+Se você ainda não está convencido que aprender harmonia é importante, talvez fosse uma boa [ler isso primeiro]({{base}}/2015/11/22/porque-aprender-harmonia.html).
+
 ### Afinal, o que é uma Cadência?
 
 Uma Cadência é uma espécie de "frase" musical, com um sentido "completo", do ponto de vista harmônico. Trata-se de uma **unidade elementar** sintaticamente coesa dentro do discurso musical. Uma célula. Um tijolinho.
@@ -27,7 +29,7 @@ Se fizermos um paralelo com a nossa língua falada, podemos equiparar o conceito
 <br/>
 #### O que é mesmo uma Oração?
 
-Você se lembra do conceito exato? Uma oração é uma frase (uma sequência de palavras) que possui um sentido completo, do ponto de vista *sintático*. Ela possui um (e apenas um) verbo, que é o núcleo da oração; e em torno desse verbo normalmente temos um sujeito e um predicado, ambos opcionais.
+Você se lembra do conceito exato? Uma oração é uma frase (uma sequência de palavras) que possui um sentido completo, do ponto de vista *sintático*. Ela possui um (e apenas um) verbo, que é o núcleo da oração; e em torno dele normalmente temos um sujeito e um predicado, mas ambos são opcionais.
 
 Mas o que de fato caracteriza a frase como uma oração é seu sentido de completude, de autonomia. Podemos isolar uma oração de um texto e ela provavelmente fará bastante sentido por si só.
 
@@ -163,7 +165,7 @@ Sim. Se estivéssemos falando em **relação** ao `C`. Mas aqui estamos falando 
 
 **Isso é muito importante!** Preste atenção!
 
-O 4-5-1 é **relativo**! Nesse caso, os acordes `Gm` e `A7` nem sequer pertencem à tonalidade de `C`... Mas eles pertencem à tonalidade de `Dm`! Na tonalidade de `Dm`, o `Gm` é o 4o grau (subdominante), e o `A7` é o quinto grau (a dominante).
+O 4-5-1 se refere ao tom de `Dm`! Nesse caso, os acordes `Gm` e `A7` nem sequer pertencem à tonalidade de `C`... Mas eles pertencem à tonalidade de `Dm`! Na tonalidade de `Dm`, o `Gm` é o 4o grau (subdominante), e o `A7` é o quinto grau (a dominante).
 
 É como se, por alguns compassos, nós mudássemos rapidamente para o tom de `Dm`, fazendo uma Cadência 4-5-1, e quando chegássemos no `Dm`, então, voltássemos ao tom original e aquele acorde voltasse a desempenhar o papel de 2o grau do `C`.
 
@@ -174,12 +176,17 @@ Ainda assim, harmonicamente, o que acontece é que essa sequência possui duas C
 
 Note que o acorde de `Dm` desempenha dois papéis: ele é o primeiro grau temporário onde se resolve a Cadência `Gm-A7-Dm`, e é também o segundo grau que começa a Cadência final, que vai se resolver em `C`.
 
+<pre style='clear: both'>
+     IV  V   I
+  I          II  V   I
+  C  Gm  A7  Dm  G7  C
+</pre>
 
 ### Falando em Cadências
 
 A primeira parte de um chorinho típico poderia ser descrita assim, harmonicamente:
 
-> *Depois da introdução, a música começa no acorde da tônica, faz uma Cadência para o acorde de 2o grau, e de lá faz uma Cadência para o 6o grau, modulando para o tom relativo; aí ela faz uma Cadência em torno da nova tônica (o sexto grau da original), e depois uma Cadência terminando no quinto grau do tom original, que é o acorde que chama a resolução que dá início à segunda frase. A segunda frase é quase igual à primeira, mas a segunda parte dela, ao invés de resolver no acorde de tensão, vai um pouco mais rápido e se desfecha numa grande e forte Cadência de retorno, enfim, para o 1o grau original.*
+> *Depois da introdução, a música começa no acorde da tônica, faz uma Cadência para o acorde de 2o grau, e de lá faz uma Cadência para o 6o grau, modulando para o tom relativo; aí ela faz uma Cadência em torno da nova tônica (o sexto grau da original), e depois uma Cadência terminando no quinto grau do tom original, que é o acorde que chama a resolução que dá início à segunda frase. A segunda frase é quase igual à primeira, mas a segunda parte dela, em vez de resolver no acorde de tensão, vai um pouco mais rápido e se desfecha numa grande e forte Cadência de retorno, enfim, para o 1o grau original.*
 
 Imagino que seja difícil, pra quem não está familiarizado, acompanhar o que foi dito nesse parágrafo. Mesmo assim, peço que leia novamente. Ainda que você não tenha conseguido visualizar direitinho o que foi dito, entenda pelo menos a 'forma' do que está sendo dito. E tente convencer-se do seguinte:
 
@@ -199,7 +206,7 @@ Meu conselho é que, a partir daqui, você:
 
 Com o tempo, você irá começar a conseguir reconhecer Cadências em músicas que você ainda não sabe tocar, apenas ouviu... você não saberá nem em que tom a música está, tampouco que acordes são, mas você reconhece que ali aconteceu um movimento de Cadência se resolvendo naquela nota ali! (Seja lá qual for...)
 
-Quando chegar nesse ponto, você já estará praticamente do outro lado da ponte! Já terá atravessado a dificuldade que eu levei ANOS para vencer! É uma barreira que muito músico profissional ainda não venceu.
+Quando chegar nesse ponto, você já estará praticamente do outro lado da ponte! Já terá atravessado a dificuldade que eu [levei ANOS]({{base}}/2015/11/22/porque-aprender-harmonia.html) para vencer! É uma barreira que muito músico profissional ainda não venceu.
 
 Se estiver tendo dificuldade com as músicas que você gosta (dependendo do estilo é um pouco menos óbvio), tente analisar algumas músicas infantis! Atirei o Pau no Gato, Marcha Soldado, Parabéns pra Você! Todas elas seguem essas regrinhas! Se você ainda não entende essas simplesinhas, não vale a pena ficar tentando desvendar as músicas mais complicadas da sua banda preferida... Começe devagar, depois você vai evoluindo!
 
