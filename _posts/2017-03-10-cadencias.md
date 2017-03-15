@@ -50,7 +50,7 @@ Sendo prático, uma Cadência é **uma sequência de acordes** que forma uma fra
 
 Esse sentimento de 'completude' se dá quando concluímos a sequência, chegando ao acorde final - o 'destino' da sequência, o acorde que 'dá nome' à Cadência.
 
-A Cadência é portanto um **movimento** que nos leva **até** um acorde de destino. Dizemos "Uma Cadência para Dm" - uma sequência de acordes que *resolve* no acorde de Dm.
+A Cadência é portanto um **movimento** que nos leva **até** um acorde de destino. Dizemos "Uma Cadência para Dm" - uma sequência de acordes que se *resolve* no acorde de Dm.
 
 Então, mais do que uma simples sequência, uma Cadência é um **movimento harmônico de resolução**.
 
@@ -79,7 +79,7 @@ Se você tocar um e outro, um e outro, e depois tocar só o 'um' (o de dominante
 
 Sentir é mais importante que entender!
 
-Vou descrever as Cadências em temos das [funções]({{base}}/2015/05/23/funcao-dos-acordes.html) dos acordes na escala; e os acordes em termos do [grau](/2014/07/10/campo_harmonico.html) que ocupa nela.
+Vou descrever as Cadências em termos das [funções]({{base}}/2015/05/23/funcao-dos-acordes.html) dos acordes na escala; e os acordes em termos do [grau](/2014/07/10/campo_harmonico.html) que ocupam nela.
 
 Como sempre, vou dar os exemplos em dois tons (`C` e `Am`, pra ilustrar nos dois [modos]({{base}}/2013/04/01/maior-menor-o-centro-da-escala.html)) e você se lembre que a mesma coisa vale para qualquer tom, desde que se [transponha]({{base}}/2013/03/17/qual-e-o-tom.html) todos os acordes certinho.
 
@@ -147,52 +147,73 @@ A maior parte das músicas ocidentais, conhecidas como músicas **tonais** (juro
 
 <img src='https://sites.create-cdn.net/siteimages/16/4/5/164529/7014509.jpg' class='deslocado' style='margin-left: -40%; width:80%'/>
 
-Esse encadeamento se dá mais ou menos como montar um jogo de dominó, em que juntamos duas peças que tem uma das pontas em comum, e assim vamos formando uma longa sequência...
+Esse encadeamento se dá como se fosse um jogo de dominó, em que juntamos duas peças que tem uma das pontas em comum, e assim vamos formando uma longa sequência...
 
 Vamos a um exemplo (beeeem típico, diga-se de passagem): Imagine a seguinte sequência de acordes:
 
 <pre style='clear: both'>
-     IV  V   I
-  I          II  V   I
-  C  Gm  A7  Dm  G7  C
+     V   I
+  I      II  V   I
+  C  A7  Dm  G7  C
 </pre>
 
-Nessa sequência, existem duas Cadências! A principal delas, e que deve ser mais fácil de reconhecer, são os 3 últimos acordes (`Dm-G7-C`), que consistem em um 2-5-1 caindo na tônica principal. Só que no meio do caminho existe também um `Gm-A7-Dm`, que também é uma Cadência. Uma 4-5-1 !
+Nessa sequência, existem duas Cadências! A principal delas, e que deve ser mais fácil de reconhecer, são os 3 últimos acordes (`Dm-G7-C`), que consistem em um 2-5-1 caindo na tônica principal. Só que no meio do caminho existe também um `A7-Dm`, que também é uma Cadência. Uma 5-1 !
 
-Como assim?! O `Dm` não é o 2o grau?! E o Lá não é o sexto?!
+Como assim?! O `Dm` não é o 2o grau?! E o Lá não é o 6o?!
 
 Sim. Se estivéssemos falando em **relação** ao `C`. Mas aqui estamos falando em **relação** ao tom de `Dm`!
 
 **Isso é muito importante!** Preste atenção!
 
-O 4-5-1 se refere ao tom de `Dm`! Nesse caso, os acordes `Gm` e `A7` nem sequer pertencem à tonalidade de `C`... Mas eles pertencem à tonalidade de `Dm`! Na tonalidade de `Dm`, o `Gm` é o 4o grau (subdominante), e o `A7` é o quinto grau (a dominante).
+O 5-1 nesse caso se refere ao tom de `Dm`! Nesse caso, o acorde de `A7` nem sequer pertence à tonalidade de `C`... Pertence à tonalidade de `Dm`! Na tonalidade de `Dm`, o `A7` é o quinto grau (dominante).
 
-É como se, por alguns compassos, nós mudássemos rapidamente para o tom de `Dm`, fazendo uma Cadência 4-5-1, e quando chegássemos no `Dm`, então, voltássemos ao tom original e aquele acorde voltasse a desempenhar o papel de 2o grau do `C`.
+É como se, por alguns compassos, nós mudássemos rapidamente para o tom de `Dm`, fazendo uma Cadência 5-1, e quando chegássemos no `Dm`, então, voltássemos ao tom original e aquele acorde voltasse a desempenhar o papel de 2o grau do `C`.
 
 É exatamente isso que acontece! Só que essa passagem é tão rapidinha que a gente não chega nem a considerar que a música mudou de tom (modulou).
 
-Ainda assim, harmonicamente, o que acontece é que essa sequência possui duas Cadências - uma primeira (4-5-1) que nos leva para o acorde de `Dm`, e que, por sua vez, já faz parte da Cadência 2-5-1 que nos levará de volta pra casa!
+Ainda assim, harmonicamente, o que acontece é que essa sequência possui duas Cadências - uma primeira (5-1) que nos leva para o acorde de `Dm`, e que, por sua vez, já faz parte da Cadência 2-5-1 que nos levará de volta pra casa!
 
 
-Note que o acorde de `Dm` desempenha dois papéis: ele é o primeiro grau temporário onde se resolve a Cadência `Gm-A7-Dm`, e é também o segundo grau que começa a Cadência final, que vai se resolver em `C`.
+Note que o acorde de `Dm` desempenha dois papéis: ele é o primeiro grau temporário onde se resolve a Cadência `A7-Dm`, e é também o segundo grau que começa a Cadência final, que vai se resolver em `C`.
 
 <pre style='clear: both'>
-     IV  V   I
-  I          II  V   I
-  C  Gm  A7  Dm  G7  C
+     V   I
+  I      II  V   I
+  C  A7  Dm  G7  C
 </pre>
+
+<br/>
+#### Outro exemplo
+
+Mais um muito, muito, muito comum!
+
+<pre style='clear: both'>
+     V   I           V   I
+  I      IV  V   I       IV V   I
+  C  A7  Dm  E7  Am  C7  F  G7  C
+</pre>
+
+Vamos às cadências:
+
+A primeira é igual ao exemplo de cima: `A7-Dm`, que é um 5-1 pro acorde de `Dm`.
+
+Só que nesse caso, o acorde de `Dm` faz o papel de 4o grau do `Am`, compondo, junto com o `E7`, uma cadência 4-5-1 para o `Am`.
+
+Em seguida, fazemos uma cadência 5-1 pra cair no `F`, que por sua vez é o 4o grau que inicia a última cadência 4-5-1 que termina no `C`, onde tudo começou.
+
+Por curiosidade (já que isso é assunto pra um outro dia) essa passagem pelo `Am` é normalmente considerada uma **modulação** (uma mudança de tom). Nesse caso, uma modulação também muuuuuito comum: para o tom **relativo**.
 
 ### Falando em Cadências
 
 A primeira parte de um chorinho típico poderia ser descrita assim, harmonicamente:
 
-> *Depois da introdução, a música começa no acorde da tônica, faz uma Cadência para o acorde de 2o grau, e de lá faz uma Cadência para o 6o grau, modulando para o tom relativo; aí ela faz uma Cadência em torno da nova tônica (o sexto grau da original), e depois uma Cadência terminando no quinto grau do tom original, que é o acorde que chama a resolução que dá início à segunda frase. A segunda frase é quase igual à primeira, mas a segunda parte dela, em vez de resolver no acorde de tensão, vai um pouco mais rápido e se desfecha numa grande e forte Cadência de retorno, enfim, para o 1o grau original.*
+> *Depois da introdução, a música começa no acorde da tônica, faz uma Cadência para o acorde de 2o grau, e de lá faz uma Cadência para o 6o grau, modulando para o tom relativo; aí ela faz uma Cadência em torno da nova tônica (o sexto grau da original), e depois uma Cadência terminando no quinto grau do tom original, que é o acorde que chama a resolução que dá início à segunda frase. A segunda frase é quase igual à primeira, mas a segunda parte dela, em vez de se resolver no acorde de tensão, vai um pouco mais rápido e se desfecha numa grande e forte Cadência de retorno, enfim, para o 1o grau original.*
 
 Imagino que seja difícil, pra quem não está familiarizado, acompanhar o que foi dito nesse parágrafo. Mesmo assim, peço que leia novamente. Ainda que você não tenha conseguido visualizar direitinho o que foi dito, entenda pelo menos a 'forma' do que está sendo dito. E tente convencer-se do seguinte:
 
 As Cadências são o elemento básico, o tijolo, usado para construir a 'narrativa' harmônica da música.
 
-Outra coisa: o chorinho é um estilo que desenvolve a harmonia funcional ao extremo! E é por isso que ele é ótimo para se entender harmonia! Mas a maioria dos outros estilos me faria escrever um parágrafo bem menor que esse! Esse é apenas um exemplo bem característico que estou usando para ilustrar.
+Outra coisa: o chorinho é um estilo que desenvolve a harmonia funcional ao extremo! E é por isso que ele é ótimo para se entender harmonia! A maioria dos outros estilos me faria escrever um parágrafo bem menor que esse! Esse é apenas um exemplo bem característico que estou usando para ilustrar.
 
 ### Seguindo em frente
 
