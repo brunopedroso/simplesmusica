@@ -240,7 +240,7 @@ Não vai dar pra esgotar todos os artifícios harmônicos existentes nesse post.
 
 Meu conselho é que, a partir daqui, você:
 * Brinque um bocado com essas Cadências básicas, para concretizar um pouco do que falamos;
-* Deduza essas cadências básicas e familiarize-se com elas em outros tons comuns, como `G`, `D` por exemplo; e depois
+* Deduza essas cadências básicas e familiarize-se com elas em outros tons comuns, como `G` ou `D` por exemplo; e depois
 * Comece a tentar reconhecer Cadências em músicas que você já sabe tocar.
 
 Com o tempo, você irá começar a conseguir reconhecer Cadências em músicas que você ainda não sabe tocar, apenas ouviu... você não saberá nem em que tom a música está, tampouco que acordes são, mas você reconhece que ali aconteceu um movimento de Cadência se resolvendo naquela nota ali! (Seja lá qual for...)
