@@ -239,7 +239,8 @@ Há muitos elementos ainda para se explicar: acordes substitutos, inversões, di
 Não vai dar pra esgotar todos os artifícios harmônicos existentes nesse post. O objetivo dessa vez é apenas dar uma idéia, ampla, mas concreta, do que são as Cadências, e do papel que desempenham. Isso sem dúvida é a base mais importante de se entender, o resto são desdobramentos.
 
 Meu conselho é que, a partir daqui, você:
-* Brinque um bocado com essas Cadências básicas, para concretizar um pouco do que falamos; e depois
+* Brinque um bocado com essas Cadências básicas, para concretizar um pouco do que falamos;
+* Deduza essas cadências básicas e familiarize-se com elas em outros tons comuns, como `G`, `D` por exemplo; e depois
 * Comece a tentar reconhecer Cadências em músicas que você já sabe tocar.
 
 Com o tempo, você irá começar a conseguir reconhecer Cadências em músicas que você ainda não sabe tocar, apenas ouviu... você não saberá nem em que tom a música está, tampouco que acordes são, mas você reconhece que ali aconteceu um movimento de Cadência se resolvendo naquela nota ali! (Seja lá qual for...)
