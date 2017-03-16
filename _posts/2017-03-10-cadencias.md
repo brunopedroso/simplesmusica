@@ -75,13 +75,60 @@ Vamos a alguns exemplos de Cadências, pra você poder explorar um pouco e come�
 
 Tente tocá-las no seu violão e sentir essa tal 'resolução' sobre que falamos. É como se fosse uma 'vontade' de tocar o próximo acorde.
 
-Se você tocar um e outro, um e outro, e depois tocar só o 'um' (o de dominante), fica sentindo vontade de tocar o de tônica 'pra completar'. É como se o acorde de dominante 'pedisse', ou 'puxasse' o acorde de tônica... Tente sentir isso você mesmo.
+Se você tocar um e outro, um e outro, e depois tocar só o 'um' (o de dominante), fica sentindo vontade de tocar o de tônica 'pra completar'. É como se o acorde de dominante 'pedisse', ou 'puxasse' o acorde de tônica... É por isso que normalmente nos referimos ao acorde de dominante como um acorde de 'preparação'.
+
+Tente sentir isso você mesmo.
 
 Sentir é mais importante que entender!
 
 Vou descrever as Cadências em termos das [funções]({{base}}/2015/05/23/funcao-dos-acordes.html) dos acordes na escala; e os acordes em termos do [grau](/2014/07/10/campo_harmonico.html) que ocupam nela.
 
 Como sempre, vou dar os exemplos em dois tons (`C` e `Am`, pra ilustrar nos dois [modos]({{base}}/2013/04/01/maior-menor-o-centro-da-escala.html)) e você se lembre que a mesma coisa vale para qualquer tom, desde que se [transponha]({{base}}/2013/03/17/qual-e-o-tom.html) todos os acordes certinho.
+
+
+<br/>
+#### Dominante &rarr; Tônica
+
+Essa é a Cadência mais básica de todas. A principal forma dela é a que começa com o acorde de 5o grau, mas também podemos usar o do 7o grau (eles são muito parecidos, [lembra?]({{base}}/2015/05/23/funcao-dos-acordes.html)):
+
+<pre>
+  V &rarr; I
+    G7 &rarr; C
+    E7 &rarr; Am
+
+  VII &rarr; I
+    B&#248; &rarr; C
+    G#&#186; &rarr; Am
+</pre>
+
+Muitas músicas, ou partes delas, utilizam apenas esses dois acordes, alternados.
+
+Essa alternância representa o movimento harmônico *tonal* mais simples de todos - um padrão de oposição tensão/relaxamento (ou forte/fraco).
+
+Vamos explorar melhor isso mais adiante, quando formos desenvolver a relação entre cadências e ritmo. Mas adianto que essa alternância, apresentada das mais diversas formas, é um fator crucial da linguagem *tonal*.
+
+O acorde de dominante representa portanto o acorde de oposição mais direto em relação à tônica. Esse é, sem dúvida, o primeiro acorde com que você deve ter familiaridade, dentro de uma tonalidade (depois da tônica, obviamente).
+
+<br/>
+#### Subdominante &rarr; Tônica
+
+As Cadências desse tipo são chamadas de 'plagais' ou 'fracas', porque parecem ter um sentimento de resolução um pouco mais fraco do que o anterior (talvez porque o acorde inicial não tenha o trítono?):
+
+<pre>
+  II &rarr; I
+    Dm &rarr; C
+    B&#248; &rarr; Am
+
+  IV &rarr; I
+    F &rarr; C
+    Dm &rarr; Am
+</pre>
+
+Essa forma também é usada num padrão de alternância, como mencionado acima, no caso da dominante. Mas com um 'colorido' diferente, ou com uma 'força' um pouco menor.
+
+Essas duas primeiras cadências costumam ser muito usadas alternadamente, formando uma frase maior, com 4 acordes:
+
+SubDom &rarr; Ton &rarr; Dom &rarr; Ton.
 
 <br/>
 #### Subdominante &rarr; Dominante &rarr; Tônica
@@ -106,39 +153,9 @@ Essas duas Cadências são a base da base com a qual nós conseguimos analisar 8
 
 A segunda delas (4-5-1) é especialmente famosa por ser muito usada em blues e rock.
 
-Os outros dois tipos, de certo modo, podem ser vistos como derivações desse - resultantes da remoção de um dos 3 acordes. O que significa dizer que na prática, você só precisa aprender esse tipo!
+É comum interpretar essa cadência como uma progressão de tensão - vamos primeiro para a subdominante (tensão fraca), depois aumentamos a tensão (dominante) e então resolvemos.
 
-De qualquer modo, vou falar dos outros porque são usados com muita frequência, e essas formas serão úteis mais pra frente.
-
-<br/>
-#### Dominante &rarr; Tônica
-
-Essa é a Cadência mais básica de todas. A principal forma dela é a que começa com o acorde de 5o grau, mas também podemos usar o do 7o grau (eles são muito parecidos, [lembra?]({{base}}/2015/05/23/funcao-dos-acordes.html)):
-
-<pre>
-  V &rarr; I
-    G7 &rarr; C
-    E7 &rarr; Am
-
-  VII &rarr; I
-    B&#248; &rarr; C
-    G#&#186; &rarr; Am
-</pre>
-
-<br/>
-#### Subdominante &rarr; Tônica
-
-As Cadências desse tipo são chamadas de 'plagais' ou 'fracas', porque parecem ter um sentimento de resolução um pouco mais fraco do que o anterior (talvez porque o acorde inicial não tenha o trítono?):
-
-<pre>
-  II &rarr; I
-    Dm &rarr; C
-    B&#248; &rarr; Am
-
-  IV &rarr; I
-    F &rarr; C
-    Dm &rarr; Am
-</pre>
+Mas gosto mais de entender que ela é uma forma especialmente útil por possuir três acordes, o que nos permite formar sequências mais ricas, ritmicamente falando. Vamos desenvolver isso melhor mais adiante. Ainda é cedo.
 
 
 ### Encadeando Cadências
@@ -213,7 +230,7 @@ Imagino que seja difícil, pra quem não está familiarizado, acompanhar o que f
 
 As Cadências são o elemento básico, o tijolo, usado para construir a 'narrativa' harmônica da música.
 
-Outra coisa: o chorinho é um estilo que desenvolve a harmonia funcional ao extremo! E é por isso que ele é ótimo para se entender harmonia! A maioria dos outros estilos me faria escrever um parágrafo bem menor que esse! Esse é apenas um exemplo bem característico que estou usando para ilustrar.
+Outra coisa: o chorinho é um estilo que desenvolve a harmonia funcional ao extremo! E é por isso que ele é ótimo para se entender harmonia! A maioria dos outros estilos me faria escrever um parágrafo bem menor! Esse é apenas um exemplo bem característico que estou usando para ilustrar.
 
 ### Seguindo em frente
 
@@ -234,4 +251,7 @@ Se estiver tendo dificuldade com as músicas que você gosta (dependendo do esti
 Lembre-se também (como sempre) que música é arte. Então quebrar as regras **faz parte** do jogo. Não se assuste se você encontrar passagens que não se encaixam de primeira no que está sendo explicado. O que acontece, muitas vezes, é que uma mesma passagem pode ser interpretada harmonicamente de várias formas... e às vezes simplesmente aceitamos que é uma exceção e seguimos em frente. Música é assim.
 
 Vou escrever alguns posts específicos sobre outros desses elementos que mencionei. Mas por hora, certifique-se de você entendeu o que foi dito aqui, e concentre-se em 'malhar' a sua percepção das resoluções e do encadeamento de Cadências. Isso vale ouro!
+
+Dúvidas? Anseios? Mande um email!
+
 
