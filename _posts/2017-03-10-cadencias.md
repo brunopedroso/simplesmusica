@@ -176,7 +176,7 @@ Vamos a um exemplo (beeeem típico, diga-se de passagem): Imagine a seguinte seq
 
 Nessa sequência, existem duas Cadências! A principal delas, e que deve ser mais fácil de reconhecer, são os 3 últimos acordes (`Dm-G7-C`), que consistem em um 2-5-1 caindo na tônica principal. Só que no meio do caminho existe também um `A7-Dm`, que também é uma Cadência. Uma 5-1 !
 
-Como assim?! O `Dm` não é o 2o grau?! E o Lá não é o 6o?!
+Como assim?! O `Dm` não é o 2o grau?! E o `A` não é o 6o?!
 
 Sim. Se estivéssemos falando em **relação** ao `C`. Mas aqui estamos falando em **relação** ao tom de `Dm`!
 
