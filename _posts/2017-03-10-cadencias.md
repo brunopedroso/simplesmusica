@@ -8,6 +8,10 @@ creditos_capa: https://www.flickr.com/photos/8637390@N06/3283316933/in/photolist
 
 {% include base.html %}
 
+Antes de mais nada, se você ainda não está convencido que aprender harmonia é importante, talvez fosse uma boa [ler isso primeiro]({{base}}/2015/11/22/porque-aprender-harmonia.html). E talvez você queira ler antes também alguma coisa sobre [Escalas]({{base}}/2013/03/07/como-nascem-as-escalas.html), [Tonalidades]({{base}}/2013/03/17/qual-e-o-tom.html), [Modos]({{base}}/2013/04/01/maior-menor-o-centro-da-escala.html), [Acordes]({{base}}/2014/05/11/formacao-de-acordes.html), [Campo Harmônico]({{base}}/2014/07/10/campo_harmonico.html) e [Função dos Acordes]({{base}}/2015/05/23/funcao-dos-acordes.html).
+
+Se você está mais ou menos tranquilo com esses conceitos, então vamos adiante!
+
 O que é uma Cadência? Se você não sabe o significado preciso dessa palavra, na teoria musical, provavelmente também já a utilizou em algum sentido coloquial não muito preciso.
 
 <a target='_blank' href='https://www.flickr.com/photos/fuzuki/14261699394/in/photolist-nJfWmS-FMASYt-nY9NB2-sgpdPm-9vEkL8-5FJmjn-4mC2pF-ayPXGb-pevGqH-ahY4jm-RdVDCt-5UEKSU-qw9rMY-pKj4en-68YtjJ-dAQD7y-8zMmRE-k4LV9m-pzDpUT-37X7F-ahY9wy-wh8de-ai9RQX-6Xhhc2-hcQuB4-dv54SS-98LGru-rPHsBa-o2JAng-azJ6AM-9KrX2a-SrHHfi-bRdPHK-743zD5-jadJVk-3GVymf-nTWPPq-34xrS3-e3vBZW-qMyGvb-S3PiHz-4qyXuT-hYbjMP-aBhSFF-kKVnnB-nYHeoq-G1zXs-9qdg8V-Dsbug-Sk1vsQ'>
@@ -17,8 +21,6 @@ O que é uma Cadência? Se você não sabe o significado preciso dessa palavra, 
 Cadência é uma das muitas palavras abusadas na linguagem musical. É comum usá-la, por exemplo, para designar um andamento mais lento e marcado... "Vamos tocar um pouco mais cadenciado!"
 
 Mas a palavra possui um significado técnico preciso dentro do estudo da Harmonia. E trata-se de um conceito absolutamente central para seu entendimento.
-
-Se você ainda não está convencido que aprender harmonia é importante, talvez fosse uma boa [ler isso primeiro]({{base}}/2015/11/22/porque-aprender-harmonia.html).
 
 ### Afinal, o que é uma Cadência?
 
